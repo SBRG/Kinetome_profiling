@@ -1,0 +1,1155 @@
+,bigg_id,group_descr,reaction
+3,SULabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + so4_p --> adp_c + h_c + pi_c + so4_c
+4,TSULabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + tsul_p --> adp_c + h_c + pi_c + tsul_c
+5,Kt2pp,Inorganic Ion Transport and Metabolism,h_p + k_p --> h_c + k_c
+7,FEOXAMabcpp,Inorganic Ion Transport and Metabolism,atp_c + feoxam_p + h2o_c --> adp_c + feoxam_c + h_c + pi_c
+8,FEENTERabcpp,Inorganic Ion Transport and Metabolism,atp_c + feenter_p + h2o_c --> adp_c + feenter_c + h_c + pi_c
+9,FECRMabcpp,Inorganic Ion Transport and Metabolism,atp_c + fecrm_p + h2o_c --> adp_c + fecrm_c + h_c + pi_c
+10,FE3DCITabcpp,Inorganic Ion Transport and Metabolism,atp_c + fe3dcit_p + h2o_c --> adp_c + 2.0 cit_c + fe3_c + h_c + pi_c
+11,FE2abcpp,Inorganic Ion Transport and Metabolism,atp_c + fe2_p + h2o_c --> adp_c + fe2_c + h_c + pi_c
+15,FEOXAMUtex,Inorganic Ion Transport and Metabolism,feoxam_un_p + h_p --> feoxam_un_e + h_c
+16,ARBTNtpp,Inorganic Ion Transport and Metabolism,arbtn_c + h_p --> arbtn_p + h_c
+17,FEENTERtex,Inorganic Ion Transport and Metabolism,enter_p + h_p --> enter_e + h_c
+18,FE3HOXUtpp,Inorganic Ion Transport and Metabolism,fe3hox_un_p + h_p --> fe3hox_un_e + h_c
+19,FEOXAMUtpp,Inorganic Ion Transport and Metabolism,feoxam_un_c + h_p --> feoxam_un_p + h_c
+20,FECRMUtpp,Inorganic Ion Transport and Metabolism,fecrm_un_c + h_p --> fecrm_un_p + h_c
+27,CU1abcpp,Inorganic Ion Transport and Metabolism,atp_c + cu_c + h2o_c --> adp_c + cu_p + h_c + pi_c
+28,HG2abcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + hg2_c --> adp_c + h_c + hg2_p + pi_c
+49,AGt3,Inorganic Ion Transport and Metabolism,ag_c + h_e --> ag_e + h_c
+50,CD2t3pp,Inorganic Ion Transport and Metabolism,cd2_c + h_p --> cd2_p + h_c
+51,ZNabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + zn2_p --> adp_c + h_c + pi_c + zn2_c
+52,FE2t2pp,Inorganic Ion Transport and Metabolism,fe2_p + h_p --> fe2_c + h_c
+56,CPGNUtpp,Inorganic Ion Transport and Metabolism,cpgn_un_c + h_p --> cpgn_un_p + h_c
+57,CPGNUtex,Inorganic Ion Transport and Metabolism,cpgn_un_p + h_p --> cpgn_un_e + h_c
+59,TUNGSabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + tungs_p --> adp_c + h_c + pi_c + tungs_c
+60,MOBDabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + mobd_p --> adp_c + h_c + mobd_c + pi_c
+61,NI2uabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + ni2_p --> adp_c + h_c + ni2_c + pi_c
+62,Kabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + k_p --> adp_c + h_c + k_c + pi_c
+63,NAt3_1p5pp,Inorganic Ion Transport and Metabolism,3.0 h_p + 2.0 na1_c --> 3.0 h_c + 2.0 na1_p
+64,NAt3_2pp,Inorganic Ion Transport and Metabolism,2.0 h_p + na1_c --> 2.0 h_c + na1_p
+67,NO3t7pp,Inorganic Ion Transport and Metabolism,no2_c + no3_p --> no2_p + no3_c
+68,PIuabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + pi_p --> adp_c + h_c + 2.0 pi_c
+69,CU2abcpp,Inorganic Ion Transport and Metabolism,atp_c + cu2_c + h2o_c --> adp_c + cu2_p + h_c + pi_c
+70,COBALT2abcpp,Inorganic Ion Transport and Metabolism,atp_c + cobalt2_c + h2o_c --> adp_c + cobalt2_p + h_c + pi_c
+71,NI2abcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + ni2_c --> adp_c + h_c + ni2_p + pi_c
+72,MG2uabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + mg2_p --> adp_c + h_c + mg2_c + pi_c
+74,ZN2abcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + zn2_c --> adp_c + h_c + pi_c + zn2_p
+75,FECRMUtex,Inorganic Ion Transport and Metabolism,fecrm_un_p + h_p --> fecrm_un_e + h_c
+76,CD2abcpp,Inorganic Ion Transport and Metabolism,atp_c + cd2_c + h2o_c --> adp_c + cd2_p + h_c + pi_c
+77,Kt3pp,Inorganic Ion Transport and Metabolism,h_p + k_c --> h_c + k_p
+78,FE3HOXabcpp,Inorganic Ion Transport and Metabolism,atp_c + fe3hox_p + h2o_c --> adp_c + fe3hox_c + h_c + pi_c
+79,ZN2t3pp,Inorganic Ion Transport and Metabolism,h_p + zn2_c --> h_c + zn2_p
+81,FE3HOXUtex,Inorganic Ion Transport and Metabolism,fe3hox_un_c + h_p --> fe3hox_un_p + h_c
+82,NAt3pp,Inorganic Ion Transport and Metabolism,h_p + na1_c --> h_c + na1_p
+83,HG2t3pp,Inorganic Ion Transport and Metabolism,h_p + hg2_c --> h_c + hg2_p
+84,SO4t2pp,Inorganic Ion Transport and Metabolism,h_p + so4_p --> h_c + so4_c
+86,COBALT2tpp,Inorganic Ion Transport and Metabolism,cobalt2_p --> cobalt2_c
+87,ZN2tpp,Inorganic Ion Transport and Metabolism,zn2_p --> zn2_c
+88,NI2tpp,Inorganic Ion Transport and Metabolism,ni2_p --> ni2_c
+89,COBALT2t3pp,Inorganic Ion Transport and Metabolism,cobalt2_c + h_p --> cobalt2_p + h_c
+91,CA2t3pp,Inorganic Ion Transport and Metabolism,ca2_c + h_p --> ca2_p + h_c
+92,FE2tpp,Inorganic Ion Transport and Metabolism,fe2_p --> fe2_c
+93,MN2tpp,Inorganic Ion Transport and Metabolism,mn2_p --> mn2_c
+94,MG2tpp,Inorganic Ion Transport and Metabolism,mg2_p --> mg2_c
+95,NI2t3pp,Inorganic Ion Transport and Metabolism,h_p + ni2_c --> h_c + ni2_p
+96,CU2tpp,Inorganic Ion Transport and Metabolism,cu2_p --> cu2_c
+97,FE2t3pp,Inorganic Ion Transport and Metabolism,fe2_c + h_p --> fe2_p + h_c
+98,MN2t3pp,Inorganic Ion Transport and Metabolism,h_p + mn2_c --> h_c + mn2_p
+100,CD2tpp,Inorganic Ion Transport and Metabolism,cd2_p --> cd2_c
+101,FE3abcpp,Inorganic Ion Transport and Metabolism,atp_c + fe3_p + h2o_c --> adp_c + fe3_c + h_c + pi_c
+102,CLt3_2pp,Inorganic Ion Transport and Metabolism,2.0 cl_p + h_c --> 2.0 cl_c + h_p
+107,SELabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + sel_p --> adp_c + h_c + pi_c + sel_c
+108,DHBSZ3FEabcpp,Inorganic Ion Transport and Metabolism,atp_c + fe3dhbzs3_p + h2o_c --> adp_c + fe3dhbzs3_c + h_c + pi_c
+113,PIt2rpp,Inorganic Ion Transport and Metabolism,h_p + pi_p --> h_c + pi_c
+114,CLtipp,Inorganic Ion Transport and Metabolism,cl_p --> cl_c
+115,PItpp,Inorganic Ion Transport and Metabolism,pi_c --> pi_p
+116,SLNTabcpp,Inorganic Ion Transport and Metabolism,atp_c + h2o_c + slnt_p --> adp_c + h_c + pi_c + slnt_c
+119,NMNt7pp,"Transport, Inner Membrane",h2o_c + nmn_p --> h_c + ncam_c + r5p_c
+122,SUCCt2_2pp,"Transport, Inner Membrane",2.0 h_p + succ_p --> 2.0 h_c + succ_c
+124,SUCptspp,"Transport, Inner Membrane",pep_c + sucr_p --> pyr_c + suc6p_c
+126,TAURabcpp,"Transport, Inner Membrane",atp_c + h2o_c + taur_p --> adp_c + h_c + pi_c + taur_c
+127,THMDt2pp_copy1,"Transport, Inner Membrane",h_p + thymd_p --> h_c + thymd_c
+129,XYLt2pp,"Transport, Inner Membrane",h_p + xyl__D_p --> h_c + xyl__D_c
+130,THMabcpp,"Transport, Inner Membrane",atp_c + h2o_c + thm_p --> adp_c + h_c + pi_c + thm_c
+132,THRabcpp,"Transport, Inner Membrane",atp_c + h2o_c + thr__L_p --> adp_c + h_c + pi_c + thr__L_c
+133,TREptspp,"Transport, Inner Membrane",pep_c + tre_p --> pyr_c + tre6p_c
+136,URIt2pp_copy1,"Transport, Inner Membrane",h_p + uri_p --> h_c + uri_c
+138,VALabcpp,"Transport, Inner Membrane",atp_c + h2o_c + val__L_p --> adp_c + h_c + pi_c + val__L_c
+140,XYLabcpp,"Transport, Inner Membrane",atp_c + h2o_c + xyl__D_p --> adp_c + h_c + pi_c + xyl__D_c
+141,XYLUt2pp,"Transport, Inner Membrane",h_p + xylu__L_p --> h_c + xylu__L_c
+142,THRt4pp,"Transport, Inner Membrane",na1_p + thr__L_p --> na1_c + thr__L_c
+143,CBL1abcpp,"Transport, Inner Membrane",atp_c + cbl1_p + h2o_c --> adp_c + cbl1_c + h_c + pi_c
+145,ACGAptspp,"Transport, Inner Membrane",acgam_p + pep_c --> acgam6p_c + pyr_c
+146,ACMANAptspp,"Transport, Inner Membrane",acmana_p + pep_c --> acmanap_c + pyr_c
+147,ACNAMt2pp,"Transport, Inner Membrane",acnam_p + h_p --> acnam_c + h_c
+149,DAPabcpp,"Transport, Inner Membrane",26dap__M_p + atp_c + h2o_c --> 26dap__M_c + adp_c + h_c + pi_c
+152,ARGabcpp,"Transport, Inner Membrane",arg__L_p + atp_c + h2o_c --> adp_c + arg__L_c + h_c + pi_c
+154,ASCBptspp,"Transport, Inner Membrane",ascb__L_p + pep_c --> ascb6p_c + pyr_c
+156,ASPabcpp,"Transport, Inner Membrane",asp__L_p + atp_c + h2o_c --> adp_c + asp__L_c + h_c + pi_c
+157,ASPt2pp,"Transport, Inner Membrane",asp__L_p + h_p --> asp__L_c + h_c
+158,ASPt2_2pp,"Transport, Inner Membrane",asp__L_p + 2.0 h_p --> asp__L_c + 2.0 h_c
+159,ASPt2_3pp,"Transport, Inner Membrane",asp__L_p + 3.0 h_p --> asp__L_c + 3.0 h_c
+161,GALt2pp,"Transport, Inner Membrane",gal_p + h_p --> gal_c + h_c
+162,ABUTt2pp,"Transport, Inner Membrane",4abut_p + h_p --> 4abut_c + h_c
+163,CYSabcpp,"Transport, Inner Membrane",atp_c + cys__L_p + h2o_c --> adp_c + cys__L_c + h_c + pi_c
+164,SBTptspp,"Transport, Inner Membrane",pep_c + sbt__D_p --> pyr_c + sbt6p_c
+167,ACt4pp,"Transport, Inner Membrane",ac_p + na1_p --> ac_c + na1_c
+169,ADNt2pp_copy1,"Transport, Inner Membrane",adn_p + h_p --> adn_c + h_c
+171,ALAabcpp,"Transport, Inner Membrane",ala__L_p + atp_c + h2o_c --> adp_c + ala__L_c + h_c + pi_c
+172,ALLabcpp,"Transport, Inner Membrane",all__D_p + atp_c + h2o_c --> adp_c + all__D_c + h_c + pi_c
+174,ARBabcpp,"Transport, Inner Membrane",arab__L_p + atp_c + h2o_c --> adp_c + arab__L_c + h_c + pi_c
+177,NACtpp,"Transport, Inner Membrane",nac_p --> nac_c
+178,CITt7pp,"Transport, Inner Membrane",cit_p + succ_c --> cit_c + succ_p
+179,CRNt7pp,"Transport, Inner Membrane",crn_p + gbbtn_c --> crn_c + gbbtn_p
+180,CHLabcpp,"Transport, Inner Membrane",atp_c + chol_p + h2o_c --> adp_c + chol_c + h_c + pi_c
+181,DGSNt2pp,"Transport, Inner Membrane",dgsn_p + h_p --> dgsn_c + h_c
+182,DINSt2pp,"Transport, Inner Membrane",din_p + h_p --> din_c + h_c
+183,DURIt2pp,"Transport, Inner Membrane",duri_p + h_p --> duri_c + h_c
+184,FRUptspp,"Transport, Inner Membrane",fru_p + pep_c --> f1p_c + pyr_c
+186,FUMt2_2pp,"Transport, Inner Membrane",fum_p + 2.0 h_p --> fum_c + 2.0 h_c
+187,FUMt2_3pp,"Transport, Inner Membrane",fum_p + 3.0 h_p --> fum_c + 3.0 h_c
+188,CSNt2pp,"Transport, Inner Membrane",csn_p + h_p --> csn_c + h_c
+189,CYNTt2pp,"Transport, Inner Membrane",cynt_p + h_p --> cynt_c + h_c
+190,CYTDt2pp_copy1,"Transport, Inner Membrane",cytd_p + h_p --> cytd_c + h_c
+192,DADNt2pp,"Transport, Inner Membrane",dad_2_p + h_p --> dad_2_c + h_c
+193,DCYTt2pp,"Transport, Inner Membrane",dcyt_p + h_p --> dcyt_c + h_c
+195,CYSabc2pp,"Transport, Inner Membrane",atp_c + cys__L_c + h2o_c --> adp_c + cys__L_p + h_c + pi_c
+196,CBIuabcpp,"Transport, Inner Membrane",atp_c + cbi_p + h2o_c --> adp_c + cbi_c + h_c + pi_c
+198,CADVtpp,"Transport, Inner Membrane",15dap_c + h_p + lys__L_p --> 15dap_p + h_c + lys__L_c
+199,FORtppi,"Transport, Inner Membrane",for_c --> for_p
+200,BUTSO3abcpp,"Transport, Inner Membrane",atp_c + butso3_p + h2o_c --> adp_c + butso3_c + h_c + pi_c
+201,ETHSO3abcpp,"Transport, Inner Membrane",atp_c + ethso3_p + h2o_c --> adp_c + ethso3_c + h_c + pi_c
+202,FEENTERtpp,"Transport, Inner Membrane",enter_c + h_p --> enter_p + h_c
+203,PTRCt2pp,"Transport, Inner Membrane",h_p + ptrc_p --> h_c + ptrc_c
+204,SULFACabcpp,"Transport, Inner Membrane",atp_c + h2o_c + sulfac_p --> adp_c + h_c + pi_c + sulfac_c
+205,PHEMEabcpp,"Transport, Inner Membrane",atp_c + h2o_c + pheme_c --> adp_c + h_c + pheme_p + pi_c
+206,METSOX1abcpp,"Transport, Inner Membrane",atp_c + h2o_c + metsox_S__L_p --> adp_c + h_c + metsox_S__L_c + pi_c
+207,CRNt8pp,"Transport, Inner Membrane",crn__D_c + crn_p --> crn__D_p + crn_c
+212,LIPOt2pp,"Transport, Inner Membrane",h_p + lipoate_p --> h_c + lipoate_c
+213,INOSTt4pp,"Transport, Inner Membrane",inost_p + na1_p --> inost_c + na1_c
+214,METSOX2abcpp,"Transport, Inner Membrane",atp_c + h2o_c + metsox_R__L_p --> adp_c + h_c + metsox_R__L_c + pi_c
+216,ISETACabcpp,"Transport, Inner Membrane",atp_c + h2o_c + isetac_p --> adp_c + h_c + isetac_c + pi_c
+217,MSO3abcpp,"Transport, Inner Membrane",atp_c + h2o_c + mso3_p --> adp_c + h_c + mso3_c + pi_c
+218,SKMt2pp,"Transport, Inner Membrane",h_p + skm_p --> h_c + skm_c
+219,CPGNabcpp,"Transport, Inner Membrane",atp_c + cpgn_p + h2o_c --> adp_c + cpgn_c + h_c + pi_c
+221,ILEabcpp,"Transport, Inner Membrane",atp_c + h2o_c + ile__L_p --> adp_c + h_c + ile__L_c + pi_c
+222,INDOLEt2pp,"Transport, Inner Membrane",h_c + indole_c --> h_p + indole_p
+223,INSt2pp,"Transport, Inner Membrane",h_p + ins_p --> h_c + ins_c
+224,LYXt2pp,"Transport, Inner Membrane",h_p + lyx__L_p --> h_c + lyx__L_c
+225,LEUabcpp,"Transport, Inner Membrane",atp_c + h2o_c + leu__L_p --> adp_c + h_c + leu__L_c + pi_c
+227,MALt2_2pp,"Transport, Inner Membrane",2.0 h_p + mal__L_p --> 2.0 h_c + mal__L_c
+228,MALt2_3pp,"Transport, Inner Membrane",3.0 h_p + mal__L_p --> 3.0 h_c + mal__L_c
+229,MALTabcpp,"Transport, Inner Membrane",atp_c + h2o_c + malt_p --> adp_c + h_c + malt_c + pi_c
+230,MALTHXabcpp,"Transport, Inner Membrane",atp_c + h2o_c + malthx_p --> adp_c + h_c + malthx_c + pi_c
+231,MALTPTabcpp,"Transport, Inner Membrane",atp_c + h2o_c + maltpt_p --> adp_c + h_c + maltpt_c + pi_c
+232,MALTTRabcpp,"Transport, Inner Membrane",atp_c + h2o_c + malttr_p --> adp_c + h_c + malttr_c + pi_c
+233,MALTTTRabcpp,"Transport, Inner Membrane",atp_c + h2o_c + maltttr_p --> adp_c + h_c + maltttr_c + pi_c
+234,MAN6Pt6_2pp,"Transport, Inner Membrane",man6p_p + 2.0 pi_c --> man6p_c + 2.0 pi_p
+235,MANGLYCptspp,"Transport, Inner Membrane",manglyc_p + pep_c --> man6pglyc_c + pyr_c
+236,MELIBt2pp,"Transport, Inner Membrane",h_p + melib_p --> h_c + melib_c
+237,METabcpp,"Transport, Inner Membrane",atp_c + h2o_c + met__L_p --> adp_c + h_c + met__L_c + pi_c
+238,RMNtpp,"Transport, Inner Membrane",h_p + rmn_p --> h_c + rmn_c
+239,SERt4pp,"Transport, Inner Membrane",na1_p + ser__L_p --> na1_c + ser__L_c
+240,SUCCt2_3pp,"Transport, Inner Membrane",3.0 h_p + succ_p --> 3.0 h_c + succ_c
+241,MNLptspp,"Transport, Inner Membrane",mnl_p + pep_c --> mnl1p_c + pyr_c
+242,NMNPtpp,"Transport, Inner Membrane",nmn_p --> nmn_c
+243,ORNabcpp,"Transport, Inner Membrane",atp_c + h2o_c + orn_p --> adp_c + h_c + orn_c + pi_c
+244,PNTOt4pp,"Transport, Inner Membrane",na1_p + pnto__R_p --> na1_c + pnto__R_c
+245,METDabcpp,"Transport, Inner Membrane",atp_c + h2o_c + met__D_p --> adp_c + h_c + met__D_c + pi_c
+246,PROabcpp,"Transport, Inner Membrane",atp_c + h2o_c + pro__L_p --> adp_c + h_c + pi_c + pro__L_c
+248,PROt4pp,"Transport, Inner Membrane",na1_p + pro__L_p --> na1_c + pro__L_c
+249,PTRCabcpp,"Transport, Inner Membrane",atp_c + h2o_c + ptrc_p --> adp_c + h_c + pi_c + ptrc_c
+250,ADOCBLabcpp,"Transport, Inner Membrane",adocbl_p + atp_c + h2o_c --> adocbl_c + adp_c + h_c + pi_c
+251,CRNabcpp,"Transport, Inner Membrane",atp_c + crn_p + h2o_c --> adp_c + crn_c + h_c + pi_c
+252,CRNDabcpp,"Transport, Inner Membrane",atp_c + crn__D_p + h2o_c --> adp_c + crn__D_c + h_c + pi_c
+253,CTBTabcpp,"Transport, Inner Membrane",atp_c + ctbt_p + h2o_c --> adp_c + ctbt_c + h_c + pi_c
+254,RIBabcpp,"Transport, Inner Membrane",atp_c + h2o_c + rib__D_p --> adp_c + h_c + pi_c + rib__D_c
+255,MMETt2pp,"Transport, Inner Membrane",h_p + mmet_p --> h_c + mmet_c
+256,GLNabcpp,"Transport, Inner Membrane",atp_c + gln__L_p + h2o_c --> adp_c + gln__L_c + h_c + pi_c
+257,GLUabcpp,"Transport, Inner Membrane",atp_c + glu__L_p + h2o_c --> adp_c + glu__L_c + h_c + pi_c
+260,GLUt4pp,"Transport, Inner Membrane",glu__L_p + na1_p --> glu__L_c + na1_c
+262,LCTSt3ipp,"Transport, Inner Membrane",h_p + lcts_c --> h_c + lcts_p
+263,ARBt3ipp,"Transport, Inner Membrane",arab__L_c + h_p --> arab__L_p + h_c
+264,14GLUCANabcpp,"Transport, Inner Membrane",14glucan_p + atp_c + h2o_c --> 14glucan_c + adp_c + h_c + pi_c
+267,GLYBabcpp,"Transport, Inner Membrane",atp_c + glyb_p + h2o_c --> adp_c + glyb_c + h_c + pi_c
+268,GLYC3Pt6pp,"Transport, Inner Membrane",glyc3p_p + pi_c --> glyc3p_c + pi_p
+269,GLYCLTt4pp,"Transport, Inner Membrane",glyclt_p + na1_p --> glyclt_c + na1_c
+273,HISabcpp,"Transport, Inner Membrane",atp_c + h2o_c + his__L_p --> adp_c + h_c + his__L_c + pi_c
+275,LYSabcpp,"Transport, Inner Membrane",atp_c + h2o_c + lys__L_p --> adp_c + h_c + lys__L_c + pi_c
+276,GALTptspp,"Transport, Inner Membrane",galt_p + pep_c --> galt1p_c + pyr_c
+279,GLCptspp,"Transport, Inner Membrane",glc__D_p + pep_c --> g6p_c + pyr_c
+281,GLCt2pp,"Transport, Inner Membrane",glc__D_p + h_p --> glc__D_c + h_c
+283,ACMUMptspp,"Transport, Inner Membrane",acmum_p + pep_c --> acmum6p_c + pyr_c
+285,XANt2pp,"Transport, Inner Membrane",h_p + xan_p --> h_c + xan_c
+286,GLYC3Pabcpp,"Transport, Inner Membrane",atp_c + glyc3p_p + h2o_c --> adp_c + glyc3p_c + h_c + pi_c
+289,SPMDabcpp,"Transport, Inner Membrane",atp_c + h2o_c + spmd_p --> adp_c + h_c + pi_c + spmd_c
+290,ARBTNabcpp,"Transport, Inner Membrane",arbtn_fe3_p + atp_c + h2o_c --> adp_c + arbtn_fe3_c + h_c + pi_c
+291,ASO3t8pp,"Transport, Inner Membrane",aso3_c + atp_c + h2o_c --> adp_c + aso3_p + h_c + pi_c
+292,FORt2pp,"Transport, Inner Membrane",for_p + h_p --> for_c + h_c
+293,GALabcpp,"Transport, Inner Membrane",atp_c + gal_p + h2o_c --> adp_c + gal_c + h_c + pi_c
+295,GUAt2pp,"Transport, Inner Membrane",gua_p + h_p --> gua_c + h_c
+297,H2St1pp,"Transport, Inner Membrane",h2s_c --> h2s_p
+298,MANptspp,"Transport, Inner Membrane",man_p + pep_c --> man6p_c + pyr_c
+300,CELBpts,"Transport, Inner Membrane",cellb_e + pep_c --> 6pgg_c + pyr_c
+301,MALTptspp,"Transport, Inner Membrane",malt_p + pep_c --> malt6p_c + pyr_c
+302,FRUpts2pp,"Transport, Inner Membrane",fru_p + pep_c --> f6p_c + pyr_c
+303,G6Pt6_2pp,"Transport, Inner Membrane",g6p_p + 2.0 pi_c --> g6p_c + 2.0 pi_p
+304,THRt2pp,"Transport, Inner Membrane",h_p + thr__L_c --> h_c + thr__L_p
+305,CYSDabcpp,"Transport, Inner Membrane",atp_c + cys__D_p + h2o_c --> adp_c + cys__D_c + h_c + pi_c
+306,GLCabcpp,"Transport, Inner Membrane",atp_c + glc__D_p + h2o_c --> adp_c + glc__D_c + h_c + pi_c
+307,MNt2pp,"Transport, Inner Membrane",h_p + mn2_p --> h_c + mn2_c
+308,HOMt2pp,"Transport, Inner Membrane",h_p + hom__L_c --> h_c + hom__L_p
+309,CYStpp,"Transport, Inner Membrane",cys__L_c --> cys__L_p
+310,ACSERtpp,"Transport, Inner Membrane",acser_c --> acser_p
+311,2AGPE120tipp,"Transport, Inner Membrane",2agpe120_p --> 2agpe120_c
+312,G3PGabcpp,"Transport, Inner Membrane",atp_c + g3pg_p + h2o_c --> adp_c + g3pg_c + h_c + pi_c
+313,G3PIabcpp,"Transport, Inner Membrane",atp_c + g3pi_p + h2o_c --> adp_c + g3pi_c + h_c + pi_c
+314,G3PSabcpp,"Transport, Inner Membrane",atp_c + g3ps_p + h2o_c --> adp_c + g3ps_c + h_c + pi_c
+315,2AGPA120tipp,"Transport, Inner Membrane",2ddecg3p_p --> 2ddecg3p_c
+316,2AGPG180tipp,"Transport, Inner Membrane",2agpg180_p --> 2agpg180_c
+317,URAt2pp,"Transport, Inner Membrane",h_p + ura_p --> h_c + ura_c
+318,ALAALAabcpp,"Transport, Inner Membrane",alaala_p + atp_c + h2o_c --> adp_c + alaala_c + h_c + pi_c
+320,G3PEabcpp,"Transport, Inner Membrane",atp_c + g3pe_p + h2o_c --> adp_c + g3pe_c + h_c + pi_c
+321,G3PCabcpp,"Transport, Inner Membrane",atp_c + g3pc_p + h2o_c --> adp_c + g3pc_c + h_c + pi_c
+322,PROGLYabcpp,"Transport, Inner Membrane",atp_c + h2o_c + progly_p --> adp_c + h_c + pi_c + progly_c
+323,GTHRDabcpp,"Transport, Inner Membrane",atp_c + gthrd_p + h2o_c --> adp_c + gthrd_c + h_c + pi_c
+324,2AGPG140tipp,"Transport, Inner Membrane",2agpg140_p --> 2agpg140_c
+325,2AGPG160tipp,"Transport, Inner Membrane",2agpg160_p --> 2agpg160_c
+326,2AGPG141tipp,"Transport, Inner Membrane",2agpg141_p --> 2agpg141_c
+327,2AGPG161tipp,"Transport, Inner Membrane",2agpg161_p --> 2agpg161_c
+328,2AGPG181tipp,"Transport, Inner Membrane",2agpg181_p --> 2agpg181_c
+329,PG161abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg161_c --> adp_c + h_c + pg161_p + pi_c
+330,PGP120abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp120_c --> adp_c + h_c + pgp120_p + pi_c
+331,PGP161abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp161_c --> adp_c + h_c + pgp161_p + pi_c
+332,PGP181abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp181_c --> adp_c + h_c + pgp181_p + pi_c
+333,PA120abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa120_c --> adp_c + h_c + pa120_p + pi_c
+334,PA160abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa160_c --> adp_c + h_c + pa160_p + pi_c
+335,PA181abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa181_c --> adp_c + h_c + pa181_p + pi_c
+336,12DGR141tipp,"Transport, Inner Membrane",12dgr141_p --> 12dgr141_c
+337,PG160abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg160_c --> adp_c + h_c + pg160_p + pi_c
+338,PGP140abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp140_c --> adp_c + h_c + pgp140_p + pi_c
+339,GAMptspp,"Transport, Inner Membrane",gam_p + pep_c --> gam6p_c + pyr_c
+340,GSNt2pp,"Transport, Inner Membrane",gsn_p + h_p --> gsn_c + h_c
+345,MELIBt3ipp,"Transport, Inner Membrane",h_p + melib_c --> h_c + melib_p
+346,K2L4Aabcpp,"Transport, Inner Membrane",atp_c + h2o_c + kdo2lipid4_c --> adp_c + h_c + kdo2lipid4_p + pi_c
+348,GAM6Pt6_2pp,"Transport, Inner Membrane",gam6p_p + 2.0 pi_c --> gam6p_c + 2.0 pi_p
+349,F6Pt6_2pp,"Transport, Inner Membrane",f6p_p + 2.0 pi_c --> f6p_c + 2.0 pi_p
+351,12DGR140tipp,"Transport, Inner Membrane",12dgr140_p --> 12dgr140_c
+352,12DGR160tipp,"Transport, Inner Membrane",12dgr160_p --> 12dgr160_c
+353,12DGR180tipp,"Transport, Inner Membrane",12dgr180_p --> 12dgr180_c
+354,PE141abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe141_c --> adp_c + h_c + pe141_p + pi_c
+355,PE160abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe160_c --> adp_c + h_c + pe160_p + pi_c
+356,PE161abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe161_c --> adp_c + h_c + pe161_p + pi_c
+357,PG140abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg140_c --> adp_c + h_c + pg140_p + pi_c
+358,PG141abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg141_c --> adp_c + h_c + pg141_p + pi_c
+359,PG180abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg180_c --> adp_c + h_c + pg180_p + pi_c
+360,PG181abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg181_c --> adp_c + h_c + pg181_p + pi_c
+361,PGP141abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp141_c --> adp_c + h_c + pgp141_p + pi_c
+362,PGP160abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp160_c --> adp_c + h_c + pgp160_p + pi_c
+363,PGP180abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pgp180_c --> adp_c + h_c + pgp180_p + pi_c
+364,PA140abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa140_c --> adp_c + h_c + pa140_p + pi_c
+365,12DGR120tipp,"Transport, Inner Membrane",12dgr120_p --> 12dgr120_c
+366,PG120abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pg120_c --> adp_c + h_c + pg120_p + pi_c
+367,PE140abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe140_c --> adp_c + h_c + pe140_p + pi_c
+368,2AGPE181tipp,"Transport, Inner Membrane",2agpe181_p --> 2agpe181_c
+369,2AGPA140tipp,"Transport, Inner Membrane",2tdecg3p_p --> 2tdecg3p_c
+370,2AGPA160tipp,"Transport, Inner Membrane",2hdecg3p_p --> 2hdecg3p_c
+371,2AGPA180tipp,"Transport, Inner Membrane",2odecg3p_p --> 2odecg3p_c
+372,2AGPA141tipp,"Transport, Inner Membrane",2tdec7eg3p_p --> 2tdec7eg3p_c
+373,2AGPE140tipp,"Transport, Inner Membrane",2agpe140_p --> 2agpe140_c
+374,2AGPE160tipp,"Transport, Inner Membrane",2agpe160_p --> 2agpe160_c
+375,2AGPE180tipp,"Transport, Inner Membrane",2agpe180_p --> 2agpe180_c
+376,2AGPE141tipp,"Transport, Inner Membrane",2agpe141_p --> 2agpe141_c
+377,2AGPE161tipp,"Transport, Inner Membrane",2agpe161_p --> 2agpe161_c
+378,2AGPA161tipp,"Transport, Inner Membrane",2hdec9eg3p_p --> 2hdec9eg3p_c
+379,2AGPA181tipp,"Transport, Inner Membrane",2odec11eg3p_p --> 2odec11eg3p_c
+380,2AGPG120tipp,"Transport, Inner Membrane",2agpg120_p --> 2agpg120_c
+381,PA141abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa141_c --> adp_c + h_c + pa141_p + pi_c
+382,PA161abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa161_c --> adp_c + h_c + pa161_p + pi_c
+383,PA180abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pa180_c --> adp_c + h_c + pa180_p + pi_c
+384,PE120abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe120_c --> adp_c + h_c + pe120_p + pi_c
+385,PE180abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe180_c --> adp_c + h_c + pe180_p + pi_c
+386,TDSR1,"Transport, Inner Membrane",dsbcox_p + dsbdrd_c --> dsbcrd_p + dsbdox_c
+387,CGLYabcpp,"Transport, Inner Membrane",atp_c + cgly_p + h2o_c --> adp_c + cgly_c + h_c + pi_c
+388,PE181abcpp,"Transport, Inner Membrane",atp_c + h2o_c + pe181_c --> adp_c + h_c + pe181_p + pi_c
+389,12DGR161tipp,"Transport, Inner Membrane",12dgr161_p --> 12dgr161_c
+390,12DGR181tipp,"Transport, Inner Membrane",12dgr181_p --> 12dgr181_c
+391,TDSR2,"Transport, Inner Membrane",dsbdrd_c + dsbgox_p --> dsbdox_c + dsbgrd_p
+392,GTHRDabc2pp,"Transport, Inner Membrane",atp_c + gthrd_c + h2o_c --> adp_c + gthrd_p + h_c + pi_c
+393,GLYBt2pp,"Transport, Inner Membrane",glyb_p + h_p --> glyb_c + h_c
+394,DSERt2pp,"Transport, Inner Membrane",h_p + ser__D_p --> h_c + ser__D_c
+395,ALAt4pp,"Transport, Inner Membrane",ala__L_p + na1_p --> ala__L_c + na1_c
+396,LYSt3pp,"Transport, Inner Membrane",h_p + lys__L_c --> h_c + lys__L_p
+397,CHLt2pp,"Transport, Inner Membrane",chol_p + h_p --> chol_c + h_c
+398,GLYt4pp,"Transport, Inner Membrane",gly_p + na1_p --> gly_c + na1_c
+399,FRULYSt2pp,"Transport, Inner Membrane",frulys_p + h_p --> frulys_c + h_c
+400,23DAPPAt2pp,"Transport, Inner Membrane",23dappa_p + h_p --> 23dappa_c + h_c
+402,GALCTNt2pp,"Transport, Inner Membrane",galctn__D_p + h_p --> galctn__D_c + h_c
+403,ARGt3pp,"Transport, Inner Membrane",arg__L_c + h_p --> arg__L_p + h_c
+404,PPAt4pp,"Transport, Inner Membrane",na1_p + ppa_p --> na1_c + ppa_c
+405,OROTt2_2pp,"Transport, Inner Membrane",2.0 h_p + orot_p --> 2.0 h_c + orot_c
+406,MALDt2_2pp,"Transport, Inner Membrane",2.0 h_p + mal__D_p --> 2.0 h_c + mal__D_c
+407,PSCLYSt2pp,"Transport, Inner Membrane",h_p + psclys_p --> h_c + psclys_c
+408,LYSt2pp,"Transport, Inner Membrane",h_p + lys__L_p --> h_c + lys__L_c
+409,GLYt2pp,"Transport, Inner Membrane",gly_p + h_p --> gly_c + h_c
+410,ALAt2pp,"Transport, Inner Membrane",ala__L_p + h_p --> ala__L_c + h_c
+411,BALAt2pp,"Transport, Inner Membrane",ala_B_p + h_p --> ala_B_c + h_c
+412,DALAt2pp,"Transport, Inner Membrane",ala__D_p + h_p --> ala__D_c + h_c
+413,GALCTNLt2pp,"Transport, Inner Membrane",galctn__L_p + h_p --> galctn__L_c + h_c
+414,THYMt3pp,"Transport, Inner Membrane",h_p + thym_c --> h_c + thym_p
+415,ETHAt2pp,"Transport, Inner Membrane",etha_p + h_p --> etha_c + h_c
+417,LALADGLUtpp,"Transport, Inner Membrane",LalaDglu_p + h_p --> LalaDglu_c + h_c
+418,LALALGLUtpp,"Transport, Inner Membrane",LalaLglu_p + h_p --> LalaLglu_c + h_c
+420,5MTRtpp,"Transport, Inner Membrane",5mtr_c + h_c --> 5mtr_p + h_p
+421,3HPPtpp,"Transport, Inner Membrane",3hpp_c + h_c --> 3hpp_p + h_p
+422,BTNt2ipp,"Transport, Inner Membrane",btn_p + h_p --> btn_c + h_c
+423,ARBTptspp,"Transport, Inner Membrane",arbt_p + pep_c --> arbt6p_c + pyr_c
+425,PYDXtpp,"Transport, Inner Membrane",pydx_p --> pydx_c
+428,PYDXNtpp,"Transport, Inner Membrane",pydxn_p --> pydxn_c
+429,PYDAMtpp,"Transport, Inner Membrane",pydam_p --> pydam_c
+430,TARTt2_3pp,"Transport, Inner Membrane",3.0 h_p + tartr__D_p --> 3.0 h_c + tartr__D_c
+432,CHTBSptspp,"Transport, Inner Membrane",chtbs_p + pep_c --> chtbs6p_c + pyr_c
+433,TRPtipp,"Transport, Inner Membrane",trp__L_c --> trp__L_p
+434,TYRtipp,"Transport, Inner Membrane",tyr__L_c --> tyr__L_p
+435,SPMDt3pp,"Transport, Inner Membrane",h_p + spmd_c --> h_c + spmd_p
+436,PHEtipp,"Transport, Inner Membrane",phe__L_c --> phe__L_p
+437,MALt3pp,"Transport, Inner Membrane",h_p + mal__L_c --> h_c + mal__L_p
+438,CITt3pp,"Transport, Inner Membrane",cit_c + h_p --> cit_p + h_c
+440,GLYC2Pabcpp,"Transport, Inner Membrane",atp_c + glyc2p_p + h2o_c --> adp_c + glyc2p_c + h_c + pi_c
+441,ALAtpp,"Transport, Inner Membrane",ala__L_c --> ala__L_p
+443,2DGLCptspp,"Transport, Inner Membrane",2dglc_p + pep_c --> 2doxg6p_c + pyr_c
+444,23DOGULNt4pp,"Transport, Inner Membrane",23doguln_p + na1_p --> 23doguln_c + na1_c
+445,CHLt3pp,"Transport, Inner Membrane",chol_c + h_p --> chol_p + h_c
+446,GLYBt3pp,"Transport, Inner Membrane",glyb_c + h_p --> glyb_p + h_c
+447,AI2tpp,"Transport, Inner Membrane",mththf_c --> mththf_p
+448,Ftpp,"Transport, Inner Membrane",f_c --> f_p
+449,DHPStr,"Transport, Inner Membrane",dhps_c --> dhps_p
+450,SQtr,"Transport, Inner Membrane",sq_p --> sq_c
+451,CHOLATEtpp,"Transport, Inner Membrane",cholate_c + h_p --> cholate_p + h_c
+453,CYSItpp,"Transport, Inner Membrane",cysi__L_c --> cysi__L_p
+454,PUACGAMtr,"Transport, Inner Membrane",puacgam_c --> puacgam_p
+455,LEUt2rpp,"Transport, Inner Membrane",h_p + leu__L_p --> h_c + leu__L_c
+456,LCTStpp,"Transport, Inner Membrane",h_p + lcts_p --> h_c + lcts_c
+457,ILEt3pp,"Transport, Inner Membrane",h_p + ile__L_c --> h_c + ile__L_p
+458,METt3pp,"Transport, Inner Membrane",h_p + met__L_c --> h_c + met__L_p
+459,GSNt3pp,"Transport, Inner Membrane",gsn_c + h_p --> gsn_p + h_c
+460,LEUt3pp,"Transport, Inner Membrane",h_p + leu__L_c --> h_c + leu__L_p
+461,INSt3pp,"Transport, Inner Membrane",h_p + ins_c --> h_c + ins_p
+462,INDOLEt2rpp,"Transport, Inner Membrane",h_p + indole_p --> h_c + indole_c
+463,ILEt2rpp,"Transport, Inner Membrane",h_p + ile__L_p --> h_c + ile__L_c
+465,FADt,"Transport, Inner Membrane",fad_c --> fad_p
+466,AI2abcpp,"Transport, Inner Membrane",atp_c + h2o_c + mththf_p --> adp_c + h_c + mththf_c + pi_c
+467,4HBZt3pp,"Transport, Inner Membrane",4hbz_c + h_p --> 4hbz_p + h_c
+468,CH4t2pp,"Transport, Inner Membrane",ch4_c --> ch4_p
+469,SERtpp,"Transport, Inner Membrane",ser__L_c --> ser__L_p
+470,URATEtpp,"Transport, Inner Membrane",h_p + urate_p --> h_c + urate_c
+471,MEPNabcpp,"Transport, Inner Membrane",atp_c + h2o_c + mepn_p --> adp_c + h_c + mepn_c + pi_c
+472,VALt2rpp,"Transport, Inner Membrane",h_p + val__L_p --> h_c + val__L_c
+473,VALt3pp,"Transport, Inner Membrane",h_p + val__L_c --> h_c + val__L_p
+474,MN2tipp,"Transport, Inner Membrane",mn2_c --> mn2_p
+475,PSURItpp,"Transport, Inner Membrane",psuri_p --> psuri_c
+476,METGLCURt2pp,"Transport, Inner Membrane",h_p + metglcur_p --> h_c + metglcur_c
+477,FMNt,"Transport, Inner Membrane",fmn_c --> fmn_p
+478,CUt2pp,"Transport, Inner Membrane",cu_c --> cu_p
+479,THRt2rpp,"Transport, Inner Membrane",h_p + thr__L_p --> h_c + thr__L_c
+480,SERt2rpp,"Transport, Inner Membrane",h_p + ser__L_p --> h_c + ser__L_c
+481,URAtpp,"Transport, Inner Membrane",ura_c --> ura_p
+505,ACMUMtex,"Transport, Outer Membrane Porin",acmum_e --> acmum_p
+533,GLCtex_copy1,"Transport, Outer Membrane Porin",glc__D_e --> glc__D_p
+750,ARBTtex,"Transport, Outer Membrane Porin",arbt_e --> arbt_p
+763,CPGNtonex,"Transport, Outer Membrane",cpgn_e + h_p --> cpgn_p + h_c
+764,FEENTERtonex,"Transport, Outer Membrane",feenter_e + h_p --> feenter_p + h_c
+765,MALTTRtexi,"Transport, Outer Membrane",malttr_e --> malttr_p
+766,MALTTTRtexi,"Transport, Outer Membrane",maltttr_e --> maltttr_p
+767,MALTPTtexi,"Transport, Outer Membrane",maltpt_e --> maltpt_p
+768,MALTtexi,"Transport, Outer Membrane",malt_e --> malt_p
+769,GLCtex_copy1,"Transport, Outer Membrane",glc__D_e --> glc__D_p
+770,FE3DCITtonex,"Transport, Outer Membrane",fe3dcit_e + h_p --> fe3dcit_p + h_c
+774,ARBTNtex,"Transport, Outer Membrane",arbtn_p + h_p --> arbtn_e + h_c
+775,PHEMEtiex,"Transport, Outer Membrane",pheme_p --> pheme_e
+776,DDCAtexi,"Transport, Outer Membrane",ddca_e --> ddca_p
+777,TTDCAtexi,"Transport, Outer Membrane",ttdca_e --> ttdca_p
+778,HDCAtexi,"Transport, Outer Membrane",hdca_e --> hdca_p
+779,OCDCAtexi,"Transport, Outer Membrane",ocdca_e --> ocdca_p
+780,OCDCEAtexi,"Transport, Outer Membrane",ocdcea_e --> ocdcea_p
+781,FECRMtonex,"Transport, Outer Membrane",fecrm_e + h_p --> fecrm_p + h_c
+782,ARBTNtonex,"Transport, Outer Membrane",arbtn_fe3_e + h_p --> arbtn_fe3_p + h_c
+784,FE3HOXtonex,"Transport, Outer Membrane",fe3hox_e + h_p --> fe3hox_p + h_c
+785,14GLUCANtexi,"Transport, Outer Membrane",14glucan_e --> 14glucan_p
+788,CUt3,"Transport, Outer Membrane",cu_c + h_e --> cu_e + h_c
+789,TTDCEAtexi,"Transport, Outer Membrane",ttdcea_e --> ttdcea_p
+790,HDCEAtexi,"Transport, Outer Membrane",hdcea_e --> hdcea_p
+791,MALTHXtexi,"Transport, Outer Membrane",malthx_e --> malthx_p
+792,FE3DHBZStonex,"Transport, Outer Membrane",fe3dhbzs_e + h_p --> fe3dhbzs_p + h_c
+793,FEOXAMtonex,"Transport, Outer Membrane",feoxam_e + h_p --> feoxam_p + h_c
+795,MINOHPtexi,"Transport, Outer Membrane",minohp_e --> minohp_p
+796,CMtpp,"Transport, Outer Membrane",cm_p + h_p --> cm_e + h_c
+797,FUSAtpp,"Transport, Outer Membrane",fusa_p + h_p --> fusa_e + h_c
+799,MINCYCtpp,"Transport, Outer Membrane",h_p + mincyc_p --> h_c + mincyc_e
+800,DOXRBCNtpp,"Transport, Outer Membrane",doxrbcn_p + h_p --> doxrbcn_e + h_c
+801,NOVBCNtpp,"Transport, Outer Membrane",h_p + novbcn_p --> h_c + novbcn_e
+803,TTRCYCtpp,"Transport, Outer Membrane",h_p + ttrcyc_p --> h_c + ttrcyc_e
+804,RFAMPtpp,"Transport, Outer Membrane",h_p + rfamp_p --> h_c + rfamp_e
+812,CBL1tonex,"Transport, Outer Membrane",cbl1_e + h_p --> cbl1_p + h_c
+813,CBItonex,"Transport, Outer Membrane",cbi_e + h_p --> cbi_p + h_c
+815,ADOCBLtonex,"Transport, Outer Membrane",adocbl_e + h_p --> adocbl_p + h_c
+2,O2tpp_f,Inorganic Ion Transport and Metabolism,o2_p <=> o2_c
+2100,O2tpp_b,Inorganic Ion Transport and Metabolism,o2_p <=> o2_c
+29,NOtpp_f,Inorganic Ion Transport and Metabolism,no_p <=> no_c
+2910,NOtpp_b,Inorganic Ion Transport and Metabolism,no_p <=> no_c
+30,N2Otpp_f,Inorganic Ion Transport and Metabolism,n2o_p <=> n2o_c
+3010,N2Otpp_b,Inorganic Ion Transport and Metabolism,n2o_p <=> n2o_c
+65,NH4tpp_f,Inorganic Ion Transport and Metabolism,nh4_p <=> nh4_c
+6510,NH4tpp_b,Inorganic Ion Transport and Metabolism,nh4_p <=> nh4_c
+66,NO2t2rpp_f,Inorganic Ion Transport and Metabolism,h_p + no2_p <=> h_c + no2_c
+6610,NO2t2rpp_b,Inorganic Ion Transport and Metabolism,h_p + no2_p <=> h_c + no2_c
+80,SO2tpp_f,Inorganic Ion Transport and Metabolism,so2_p <=> so2_c
+8010,SO2tpp_b,Inorganic Ion Transport and Metabolism,so2_p <=> so2_c
+90,CAt6pp_f,Inorganic Ion Transport and Metabolism,ca2_c + na1_p <=> ca2_p + na1_c
+901,CAt6pp_b,Inorganic Ion Transport and Metabolism,ca2_c + na1_p <=> ca2_p + na1_c
+99,MG2t3_2pp_f,Inorganic Ion Transport and Metabolism,2.0 h_c + mg2_p <=> 2.0 h_p + mg2_c
+991,MG2t3_2pp_b,Inorganic Ion Transport and Metabolism,2.0 h_c + mg2_p <=> 2.0 h_p + mg2_c
+120,PYRt2rpp_f,"Transport, Inner Membrane",h_p + pyr_p <=> h_c + pyr_c
+1201,PYRt2rpp_b,"Transport, Inner Membrane",h_p + pyr_p <=> h_c + pyr_c
+121,XANtpp_f,"Transport, Inner Membrane",xan_p <=> xan_c
+1211,XANtpp_b,"Transport, Inner Membrane",xan_p <=> xan_c
+123,SUCFUMtpp_f,"Transport, Inner Membrane",fum_p + succ_c <=> fum_c + succ_p
+1231,SUCFUMtpp_b,"Transport, Inner Membrane",fum_p + succ_c <=> fum_c + succ_p
+125,TARTRt7pp_f,"Transport, Inner Membrane",succ_c + tartr__L_p <=> succ_p + tartr__L_c
+1251,TARTRt7pp_b,"Transport, Inner Membrane",succ_c + tartr__L_p <=> succ_p + tartr__L_c
+128,AKGt2rpp_f,"Transport, Inner Membrane",akg_p + h_p <=> akg_c + h_c
+1281,AKGt2rpp_b,"Transport, Inner Membrane",akg_p + h_p <=> akg_c + h_c
+131,THMDt2pp_copy2_f,"Transport, Inner Membrane",h_p + thymd_p <=> h_c + thymd_c
+1311,THMDt2pp_copy2_b,"Transport, Inner Membrane",h_p + thymd_p <=> h_c + thymd_c
+134,TRPt2rpp_f,"Transport, Inner Membrane",h_p + trp__L_p <=> h_c + trp__L_c
+1341,TRPt2rpp_b,"Transport, Inner Membrane",h_p + trp__L_p <=> h_c + trp__L_c
+135,TYRt2rpp_f,"Transport, Inner Membrane",h_p + tyr__L_p <=> h_c + tyr__L_c
+1351,TYRt2rpp_b,"Transport, Inner Membrane",h_p + tyr__L_p <=> h_c + tyr__L_c
+137,URIt2pp_copy2_f,"Transport, Inner Membrane",h_p + uri_p <=> h_c + uri_c
+1371,URIt2pp_copy2_b,"Transport, Inner Membrane",h_p + uri_p <=> h_c + uri_c
+139,XTSNt2rpp_f,"Transport, Inner Membrane",h_p + xtsn_p <=> h_c + xtsn_c
+1391,XTSNt2rpp_b,"Transport, Inner Membrane",h_p + xtsn_p <=> h_c + xtsn_c
+144,ACACt2pp_f,"Transport, Inner Membrane",acac_p + h_p <=> acac_c + h_c
+1441,ACACt2pp_b,"Transport, Inner Membrane",acac_p + h_p <=> acac_c + h_c
+148,ARBt2rpp_f,"Transport, Inner Membrane",arab__L_p + h_p <=> arab__L_c + h_c
+1481,ARBt2rpp_b,"Transport, Inner Membrane",arab__L_p + h_p <=> arab__L_c + h_c
+150,CO2tpp_f,"Transport, Inner Membrane",co2_p <=> co2_c
+1501,CO2tpp_b,"Transport, Inner Membrane",co2_p <=> co2_c
+151,DHAtpp_f,"Transport, Inner Membrane",dha_p <=> dha_c
+1511,DHAtpp_b,"Transport, Inner Membrane",dha_p <=> dha_c
+153,ARGAGMt7pp_f,"Transport, Inner Membrane",agm_c + arg__L_p <=> agm_p + arg__L_c
+1531,ARGAGMt7pp_b,"Transport, Inner Membrane",agm_c + arg__L_p <=> agm_p + arg__L_c
+155,ASNt2rpp_f,"Transport, Inner Membrane",asn__L_p + h_p <=> asn__L_c + h_c
+1551,ASNt2rpp_b,"Transport, Inner Membrane",asn__L_p + h_p <=> asn__L_c + h_c
+160,GALCTt2rpp_f,"Transport, Inner Membrane",galct__D_p + h_p <=> galct__D_c + h_c
+1601,GALCTt2rpp_b,"Transport, Inner Membrane",galct__D_p + h_p <=> galct__D_c + h_c
+165,ACALDtpp_f,"Transport, Inner Membrane",acald_p <=> acald_c
+1651,ACALDtpp_b,"Transport, Inner Membrane",acald_p <=> acald_c
+166,ACt2rpp_f,"Transport, Inner Membrane",ac_p + h_p <=> ac_c + h_c
+1661,ACt2rpp_b,"Transport, Inner Membrane",ac_p + h_p <=> ac_c + h_c
+168,ADEt2rpp_f,"Transport, Inner Membrane",ade_p + h_p <=> ade_c + h_c
+1681,ADEt2rpp_b,"Transport, Inner Membrane",ade_p + h_p <=> ade_c + h_c
+170,ADNt2pp_copy2_f,"Transport, Inner Membrane",adn_p + h_p <=> adn_c + h_c
+1701,ADNt2pp_copy2_b,"Transport, Inner Membrane",adn_p + h_p <=> adn_c + h_c
+173,ALLTNt2rpp_f,"Transport, Inner Membrane",alltn_p + h_p <=> alltn_c + h_c
+1731,ALLTNt2rpp_b,"Transport, Inner Membrane",alltn_p + h_p <=> alltn_c + h_c
+175,GUAtpp_f,"Transport, Inner Membrane",gua_p <=> gua_c
+1751,GUAtpp_b,"Transport, Inner Membrane",gua_p <=> gua_c
+176,HYXNtpp_f,"Transport, Inner Membrane",hxan_p <=> hxan_c
+1761,HYXNtpp_b,"Transport, Inner Membrane",hxan_p <=> hxan_c
+185,FUCtpp_f,"Transport, Inner Membrane",fuc__L_p + h_p <=> fuc__L_c + h_c
+1851,FUCtpp_b,"Transport, Inner Membrane",fuc__L_p + h_p <=> fuc__L_c + h_c
+191,CYTDt2pp_copy2_f,"Transport, Inner Membrane",cytd_p + h_p <=> cytd_c + h_c
+1911,CYTDt2pp_copy2_b,"Transport, Inner Membrane",cytd_p + h_p <=> cytd_c + h_c
+194,DDGLCNt2rpp_f,"Transport, Inner Membrane",2ddglcn_p + h_p <=> 2ddglcn_c + h_c
+1941,DDGLCNt2rpp_b,"Transport, Inner Membrane",2ddglcn_p + h_p <=> 2ddglcn_c + h_c
+197,BUTt2rpp_f,"Transport, Inner Membrane",but_p + h_p <=> but_c + h_c
+1971,BUTt2rpp_b,"Transport, Inner Membrane",but_p + h_p <=> but_c + h_c
+208,CRNt2rpp_f,"Transport, Inner Membrane",crn_p + h_p <=> crn_c + h_c
+2081,CRNt2rpp_b,"Transport, Inner Membrane",crn_p + h_p <=> crn_c + h_c
+209,CRNDt2rpp_f,"Transport, Inner Membrane",crn__D_p + h_p <=> crn__D_c + h_c
+2091,CRNDt2rpp_b,"Transport, Inner Membrane",crn__D_p + h_p <=> crn__D_c + h_c
+210,CTBTt2rpp_f,"Transport, Inner Membrane",ctbt_p + h_p <=> ctbt_c + h_c
+2101,CTBTt2rpp_b,"Transport, Inner Membrane",ctbt_p + h_p <=> ctbt_c + h_c
+211,PACALDt2rpp_f,"Transport, Inner Membrane",h_p + pacald_p <=> h_c + pacald_c
+2111,PACALDt2rpp_b,"Transport, Inner Membrane",h_p + pacald_p <=> h_c + pacald_c
+215,FALDtpp_f,"Transport, Inner Membrane",fald_p <=> fald_c
+2151,FALDtpp_b,"Transport, Inner Membrane",fald_p <=> fald_c
+220,IDONt2rpp_f,"Transport, Inner Membrane",h_p + idon__L_p <=> h_c + idon__L_c
+2201,IDONt2rpp_b,"Transport, Inner Membrane",h_p + idon__L_p <=> h_c + idon__L_c
+226,L_LACt2rpp_f,"Transport, Inner Membrane",h_p + lac__L_p <=> h_c + lac__L_c
+2261,L_LACt2rpp_b,"Transport, Inner Membrane",h_p + lac__L_p <=> h_c + lac__L_c
+247,PROt2rpp_f,"Transport, Inner Membrane",h_p + pro__L_p <=> h_c + pro__L_c
+2471,PROt2rpp_b,"Transport, Inner Membrane",h_p + pro__L_p <=> h_c + pro__L_c
+258,GLUABUTt7pp_f,"Transport, Inner Membrane",4abut_c + glu__L_p <=> 4abut_p + glu__L_c
+2581,GLUABUTt7pp_b,"Transport, Inner Membrane",4abut_c + glu__L_p <=> 4abut_p + glu__L_c
+259,GLUt2rpp_f,"Transport, Inner Membrane",glu__L_p + h_p <=> glu__L_c + h_c
+2591,GLUt2rpp_b,"Transport, Inner Membrane",glu__L_p + h_p <=> glu__L_c + h_c
+261,GLYALDtpp_f,"Transport, Inner Membrane",glyald_p <=> glyald_c
+2611,GLYALDtpp_b,"Transport, Inner Membrane",glyald_p <=> glyald_c
+265,FRUURt2rpp_f,"Transport, Inner Membrane",fruur_p + h_p <=> fruur_c + h_c
+2651,FRUURt2rpp_b,"Transport, Inner Membrane",fruur_p + h_p <=> fruur_c + h_c
+266,GLYCAt2rpp_f,"Transport, Inner Membrane",glyc__R_p + h_p <=> glyc__R_c + h_c
+2661,GLYCAt2rpp_b,"Transport, Inner Membrane",glyc__R_p + h_p <=> glyc__R_c + h_c
+270,GLYCtpp_f,"Transport, Inner Membrane",glyc_c <=> glyc_p
+2701,GLYCtpp_b,"Transport, Inner Membrane",glyc_c <=> glyc_p
+271,H2Otpp_f,"Transport, Inner Membrane",h2o_p <=> h2o_c
+2711,H2Otpp_b,"Transport, Inner Membrane",h2o_p <=> h2o_c
+272,HCINNMt2rpp_f,"Transport, Inner Membrane",3hcinnm_p + h_p <=> 3hcinnm_c + h_c
+2721,HCINNMt2rpp_b,"Transport, Inner Membrane",3hcinnm_p + h_p <=> 3hcinnm_c + h_c
+274,HISt2rpp_f,"Transport, Inner Membrane",h_p + his__L_p <=> h_c + his__L_c
+2741,HISt2rpp_b,"Transport, Inner Membrane",h_p + his__L_p <=> h_c + his__L_c
+277,GALURt2rpp_f,"Transport, Inner Membrane",galur_p + h_p <=> galur_c + h_c
+2771,GALURt2rpp_b,"Transport, Inner Membrane",galur_p + h_p <=> galur_c + h_c
+278,GLCNt2rpp_f,"Transport, Inner Membrane",glcn_p + h_p <=> glcn_c + h_c
+2781,GLCNt2rpp_b,"Transport, Inner Membrane",glcn_p + h_p <=> glcn_c + h_c
+280,GLCRt2rpp_f,"Transport, Inner Membrane",glcr_p + h_p <=> glcr_c + h_c
+2801,GLCRt2rpp_b,"Transport, Inner Membrane",glcr_p + h_p <=> glcr_c + h_c
+282,GLCURt2rpp_f,"Transport, Inner Membrane",glcur_p + h_p <=> glcur_c + h_c
+2821,GLCURt2rpp_b,"Transport, Inner Membrane",glcur_p + h_p <=> glcur_c + h_c
+284,UREAtpp_f,"Transport, Inner Membrane",urea_p <=> urea_c
+2841,UREAtpp_b,"Transport, Inner Membrane",urea_p <=> urea_c
+287,PPPNt2rpp_f,"Transport, Inner Membrane",h_p + pppn_p <=> h_c + pppn_c
+2871,PPPNt2rpp_b,"Transport, Inner Membrane",h_p + pppn_p <=> h_c + pppn_c
+288,PTRCORNt7pp_f,"Transport, Inner Membrane",orn_c + ptrc_p <=> orn_p + ptrc_c
+2881,PTRCORNt7pp_b,"Transport, Inner Membrane",orn_c + ptrc_p <=> orn_p + ptrc_c
+294,GLYCLTt2rpp_f,"Transport, Inner Membrane",glyclt_p + h_p <=> glyclt_c + h_c
+2941,GLYCLTt2rpp_b,"Transport, Inner Membrane",glyclt_p + h_p <=> glyclt_c + h_c
+296,HPPPNt2rpp_f,"Transport, Inner Membrane",3hpppn_p + h_p <=> 3hpppn_c + h_c
+2961,HPPPNt2rpp_b,"Transport, Inner Membrane",3hpppn_p + h_p <=> 3hpppn_c + h_c
+299,ARGORNt7pp_f,"Transport, Inner Membrane",arg__L_p + orn_c <=> arg__L_c + orn_p
+2991,ARGORNt7pp_b,"Transport, Inner Membrane",arg__L_p + orn_c <=> arg__L_c + orn_p
+319,HEXt2rpp_f,"Transport, Inner Membrane",h_p + hxa_p <=> h_c + hxa_c
+3191,HEXt2rpp_b,"Transport, Inner Membrane",h_p + hxa_p <=> h_c + hxa_c
+341,D_LACt2pp_f,"Transport, Inner Membrane",h_p + lac__D_p <=> h_c + lac__D_c
+3411,D_LACt2pp_b,"Transport, Inner Membrane",h_p + lac__D_p <=> h_c + lac__D_c
+342,12PPDStpp_f,"Transport, Inner Membrane",12ppd__S_p <=> 12ppd__S_c
+3421,12PPDStpp_b,"Transport, Inner Membrane",12ppd__S_p <=> 12ppd__S_c
+343,H2tpp_f,"Transport, Inner Membrane",h2_p <=> h2_c
+3431,H2tpp_b,"Transport, Inner Membrane",h2_p <=> h2_c
+344,PHEt2rpp_f,"Transport, Inner Membrane",h_p + phe__L_p <=> h_c + phe__L_c
+3441,PHEt2rpp_b,"Transport, Inner Membrane",h_p + phe__L_p <=> h_c + phe__L_c
+347,12PPDRtpp_f,"Transport, Inner Membrane",12ppd__R_p <=> 12ppd__R_c
+3471,12PPDRtpp_b,"Transport, Inner Membrane",12ppd__R_p <=> 12ppd__R_c
+350,PPALtpp_f,"Transport, Inner Membrane",ppal_c <=> ppal_p
+3501,PPALtpp_b,"Transport, Inner Membrane",ppal_c <=> ppal_p
+401,5DGLCNt2rpp_f,"Transport, Inner Membrane",5dglcn_p + h_p <=> 5dglcn_c + h_c
+4011,5DGLCNt2rpp_b,"Transport, Inner Membrane",5dglcn_p + h_p <=> 5dglcn_c + h_c
+416,ETOHtrpp_f,"Transport, Inner Membrane",etoh_p <=> etoh_c
+4161,ETOHtrpp_b,"Transport, Inner Membrane",etoh_p <=> etoh_c
+419,MEOHtrpp_f,"Transport, Inner Membrane",meoh_p <=> meoh_c
+4191,MEOHtrpp_b,"Transport, Inner Membrane",meoh_p <=> meoh_c
+424,DMSOtpp_f,"Transport, Inner Membrane",dmso_p <=> dmso_c
+4241,DMSOtpp_b,"Transport, Inner Membrane",dmso_p <=> dmso_c
+426,SUCASPtpp_f,"Transport, Inner Membrane",asp__L_p + succ_c <=> asp__L_c + succ_p
+4261,SUCASPtpp_b,"Transport, Inner Membrane",asp__L_p + succ_c <=> asp__L_c + succ_p
+427,SUCMALtpp_f,"Transport, Inner Membrane",mal__L_p + succ_c <=> mal__L_c + succ_p
+4271,SUCMALtpp_b,"Transport, Inner Membrane",mal__L_p + succ_c <=> mal__L_c + succ_p
+431,SUCTARTtpp_f,"Transport, Inner Membrane",succ_c + tartr__D_p <=> succ_p + tartr__D_c
+4311,SUCTARTtpp_b,"Transport, Inner Membrane",succ_c + tartr__D_p <=> succ_p + tartr__D_c
+439,QUIN2tpp_f,"Transport, Inner Membrane",quin_p <=> quin_c
+4391,QUIN2tpp_b,"Transport, Inner Membrane",quin_p <=> quin_c
+442,DXYLONtpp_f,"Transport, Inner Membrane",dxylnt_p <=> dxylnt_c
+4421,DXYLONtpp_b,"Transport, Inner Membrane",dxylnt_p <=> dxylnt_c
+452,4ABZGLUtr_f,"Transport, Inner Membrane",4abzglu_p + h_p <=> 4abzglu_c + h_c
+4521,4ABZGLUtr_b,"Transport, Inner Membrane",4abzglu_p + h_p <=> 4abzglu_c + h_c
+464,GLYtpp_f,"Transport, Inner Membrane",gly_c <=> gly_p
+4641,GLYtpp_b,"Transport, Inner Membrane",gly_c <=> gly_p
+482,ASPtpp_f,"Transport, Inner Membrane",asp__L_p <=> asp__L_c
+4821,ASPtpp_b,"Transport, Inner Membrane",asp__L_p <=> asp__L_c
+483,FUMt1pp_f,"Transport, Inner Membrane",fum_p <=> fum_c
+4831,FUMt1pp_b,"Transport, Inner Membrane",fum_p <=> fum_c
+484,SUCCt1pp_f,"Transport, Inner Membrane",succ_p <=> succ_c
+4841,SUCCt1pp_b,"Transport, Inner Membrane",succ_p <=> succ_c
+485,GLUtex_f,"Transport, Outer Membrane Porin",glu__L_e <=> glu__L_p
+4851,GLUtex_b,"Transport, Outer Membrane Porin",glu__L_e <=> glu__L_p
+486,GLYtex_f,"Transport, Outer Membrane Porin",gly_e <=> gly_p
+4861,GLYtex_b,"Transport, Outer Membrane Porin",gly_e <=> gly_p
+487,GLYALDtex_f,"Transport, Outer Membrane Porin",glyald_e <=> glyald_p
+4871,GLYALDtex_b,"Transport, Outer Membrane Porin",glyald_e <=> glyald_p
+488,GLYBtex_f,"Transport, Outer Membrane Porin",glyb_e <=> glyb_p
+4881,GLYBtex_b,"Transport, Outer Membrane Porin",glyb_e <=> glyb_p
+489,GLYCtex_f,"Transport, Outer Membrane Porin",glyc_e <=> glyc_p
+4891,GLYCtex_b,"Transport, Outer Membrane Porin",glyc_e <=> glyc_p
+490,GLYC3Ptex_f,"Transport, Outer Membrane Porin",glyc3p_e <=> glyc3p_p
+4901,GLYC3Ptex_b,"Transport, Outer Membrane Porin",glyc3p_e <=> glyc3p_p
+491,GLYCLTtex_f,"Transport, Outer Membrane Porin",glyclt_e <=> glyclt_p
+4911,GLYCLTtex_b,"Transport, Outer Membrane Porin",glyclt_e <=> glyclt_p
+492,GTPtex_f,"Transport, Outer Membrane Porin",gtp_e <=> gtp_p
+4921,GTPtex_b,"Transport, Outer Membrane Porin",gtp_e <=> gtp_p
+493,Htex_f,"Transport, Outer Membrane Porin",h_e <=> h_p
+4931,Htex_b,"Transport, Outer Membrane Porin",h_e <=> h_p
+494,H2tex_f,"Transport, Outer Membrane Porin",h2_e <=> h2_p
+4941,H2tex_b,"Transport, Outer Membrane Porin",h2_e <=> h2_p
+495,H2Otex_f,"Transport, Outer Membrane Porin",h2o_e <=> h2o_p
+4951,H2Otex_b,"Transport, Outer Membrane Porin",h2o_e <=> h2o_p
+496,DAPtex_f,"Transport, Outer Membrane Porin",15dap_e <=> 15dap_p
+4961,DAPtex_b,"Transport, Outer Membrane Porin",15dap_e <=> 15dap_p
+497,12PPDStex_f,"Transport, Outer Membrane Porin",12ppd__S_e <=> 12ppd__S_p
+4971,12PPDStex_b,"Transport, Outer Membrane Porin",12ppd__S_e <=> 12ppd__S_p
+498,DDGLCNtex_f,"Transport, Outer Membrane Porin",2ddglcn_e <=> 2ddglcn_p
+4981,DDGLCNtex_b,"Transport, Outer Membrane Porin",2ddglcn_e <=> 2ddglcn_p
+499,26DAHtex_f,"Transport, Outer Membrane Porin",26dap__M_e <=> 26dap__M_p
+4991,26DAHtex_b,"Transport, Outer Membrane Porin",26dap__M_e <=> 26dap__M_p
+500,HCINNMtex_f,"Transport, Outer Membrane Porin",3hcinnm_e <=> 3hcinnm_p
+5001,HCINNMtex_b,"Transport, Outer Membrane Porin",3hcinnm_e <=> 3hcinnm_p
+501,HPPPNtex_f,"Transport, Outer Membrane Porin",3hpppn_e <=> 3hpppn_p
+5011,HPPPNtex_b,"Transport, Outer Membrane Porin",3hpppn_e <=> 3hpppn_p
+502,ACtex_f,"Transport, Outer Membrane Porin",ac_e <=> ac_p
+5021,ACtex_b,"Transport, Outer Membrane Porin",ac_e <=> ac_p
+503,ACALDtex_f,"Transport, Outer Membrane Porin",acald_e <=> acald_p
+5031,ACALDtex_b,"Transport, Outer Membrane Porin",acald_e <=> acald_p
+504,ACMANAtex_f,"Transport, Outer Membrane Porin",acmana_e <=> acmana_p
+5041,ACMANAtex_b,"Transport, Outer Membrane Porin",acmana_e <=> acmana_p
+506,GALtex_f,"Transport, Outer Membrane Porin",gal_e <=> gal_p
+5061,GALtex_b,"Transport, Outer Membrane Porin",gal_e <=> gal_p
+507,GALCTtex_f,"Transport, Outer Membrane Porin",galct__D_e <=> galct__D_p
+5071,GALCTtex_b,"Transport, Outer Membrane Porin",galct__D_e <=> galct__D_p
+508,GALCTNtex_f,"Transport, Outer Membrane Porin",galctn__D_e <=> galctn__D_p
+5081,GALCTNtex_b,"Transport, Outer Membrane Porin",galctn__D_e <=> galctn__D_p
+509,GALTtex_f,"Transport, Outer Membrane Porin",galt_e <=> galt_p
+5091,GALTtex_b,"Transport, Outer Membrane Porin",galt_e <=> galt_p
+510,GALURtex_f,"Transport, Outer Membrane Porin",galur_e <=> galur_p
+5101,GALURtex_b,"Transport, Outer Membrane Porin",galur_e <=> galur_p
+511,GAMtex_f,"Transport, Outer Membrane Porin",gam_e <=> gam_p
+5111,GAMtex_b,"Transport, Outer Membrane Porin",gam_e <=> gam_p
+512,GBBTNtex_f,"Transport, Outer Membrane Porin",gbbtn_e <=> gbbtn_p
+5121,GBBTNtex_b,"Transport, Outer Membrane Porin",gbbtn_e <=> gbbtn_p
+513,HIStex_f,"Transport, Outer Membrane Porin",his__L_e <=> his__L_p
+5131,HIStex_b,"Transport, Outer Membrane Porin",his__L_e <=> his__L_p
+514,HXAtex_f,"Transport, Outer Membrane Porin",hxa_e <=> hxa_p
+5141,HXAtex_b,"Transport, Outer Membrane Porin",hxa_e <=> hxa_p
+515,HYXNtex_f,"Transport, Outer Membrane Porin",hxan_e <=> hxan_p
+5151,HYXNtex_b,"Transport, Outer Membrane Porin",hxan_e <=> hxan_p
+516,IDONtex_f,"Transport, Outer Membrane Porin",idon__L_e <=> idon__L_p
+5161,IDONtex_b,"Transport, Outer Membrane Porin",idon__L_e <=> idon__L_p
+517,ILEtex_f,"Transport, Outer Membrane Porin",ile__L_e <=> ile__L_p
+5171,ILEtex_b,"Transport, Outer Membrane Porin",ile__L_e <=> ile__L_p
+518,INSTtex_f,"Transport, Outer Membrane Porin",inost_e <=> inost_p
+5181,INSTtex_b,"Transport, Outer Membrane Porin",inost_e <=> inost_p
+519,Ktex_f,"Transport, Outer Membrane Porin",k_e <=> k_p
+5191,Ktex_b,"Transport, Outer Membrane Porin",k_e <=> k_p
+520,D_LACtex_f,"Transport, Outer Membrane Porin",lac__D_e <=> lac__D_p
+5201,D_LACtex_b,"Transport, Outer Membrane Porin",lac__D_e <=> lac__D_p
+521,FRULYStex_f,"Transport, Outer Membrane Porin",frulys_e <=> frulys_p
+5211,FRULYStex_b,"Transport, Outer Membrane Porin",frulys_e <=> frulys_p
+522,ASPtex_f,"Transport, Outer Membrane Porin",asp__L_e <=> asp__L_p
+5221,ASPtex_b,"Transport, Outer Membrane Porin",asp__L_e <=> asp__L_p
+523,INDOLEtex_f,"Transport, Outer Membrane Porin",indole_e <=> indole_p
+5231,INDOLEtex_b,"Transport, Outer Membrane Porin",indole_e <=> indole_p
+524,L_LACtex_f,"Transport, Outer Membrane Porin",lac__L_e <=> lac__L_p
+5241,L_LACtex_b,"Transport, Outer Membrane Porin",lac__L_e <=> lac__L_p
+525,GLCRtex_f,"Transport, Outer Membrane Porin",glcr_e <=> glcr_p
+5251,GLCRtex_b,"Transport, Outer Membrane Porin",glcr_e <=> glcr_p
+526,GLCNtex_f,"Transport, Outer Membrane Porin",glcn_e <=> glcn_p
+5261,GLCNtex_b,"Transport, Outer Membrane Porin",glcn_e <=> glcn_p
+527,GLCURtex_f,"Transport, Outer Membrane Porin",glcur_e <=> glcur_p
+5271,GLCURtex_b,"Transport, Outer Membrane Porin",glcur_e <=> glcur_p
+528,GLNtex_f,"Transport, Outer Membrane Porin",gln__L_e <=> gln__L_p
+5281,GLNtex_b,"Transport, Outer Membrane Porin",gln__L_e <=> gln__L_p
+529,O2tex_f,"Transport, Outer Membrane Porin",o2_e <=> o2_p
+5291,O2tex_b,"Transport, Outer Membrane Porin",o2_e <=> o2_p
+530,OCTAtex_f,"Transport, Outer Membrane Porin",octa_e <=> octa_p
+5301,OCTAtex_b,"Transport, Outer Membrane Porin",octa_e <=> octa_p
+531,ORNtex_f,"Transport, Outer Membrane Porin",orn_e <=> orn_p
+5311,ORNtex_b,"Transport, Outer Membrane Porin",orn_e <=> orn_p
+532,RMNtex_f,"Transport, Outer Membrane Porin",rmn_e <=> rmn_p
+5321,RMNtex_b,"Transport, Outer Membrane Porin",rmn_e <=> rmn_p
+534,PHEtex_f,"Transport, Outer Membrane Porin",phe__L_e <=> phe__L_p
+5341,PHEtex_b,"Transport, Outer Membrane Porin",phe__L_e <=> phe__L_p
+535,PItex_f,"Transport, Outer Membrane Porin",pi_e <=> pi_p
+5351,PItex_b,"Transport, Outer Membrane Porin",pi_e <=> pi_p
+536,PNTOtex_f,"Transport, Outer Membrane Porin",pnto__R_e <=> pnto__R_p
+5361,PNTOtex_b,"Transport, Outer Membrane Porin",pnto__R_e <=> pnto__R_p
+537,PPPNtex_f,"Transport, Outer Membrane Porin",pppn_e <=> pppn_p
+5371,PPPNtex_b,"Transport, Outer Membrane Porin",pppn_e <=> pppn_p
+538,PPTtex_f,"Transport, Outer Membrane Porin",ppt_e <=> ppt_p
+5381,PPTtex_b,"Transport, Outer Membrane Porin",ppt_e <=> ppt_p
+539,PTRCtex_f,"Transport, Outer Membrane Porin",ptrc_e <=> ptrc_p
+5391,PTRCtex_b,"Transport, Outer Membrane Porin",ptrc_e <=> ptrc_p
+540,PYRtex_f,"Transport, Outer Membrane Porin",pyr_e <=> pyr_p
+5401,PYRtex_b,"Transport, Outer Membrane Porin",pyr_e <=> pyr_p
+541,DSERtex_f,"Transport, Outer Membrane Porin",ser__D_e <=> ser__D_p
+5411,DSERtex_b,"Transport, Outer Membrane Porin",ser__D_e <=> ser__D_p
+542,SERtex_f,"Transport, Outer Membrane Porin",ser__L_e <=> ser__L_p
+5421,SERtex_b,"Transport, Outer Membrane Porin",ser__L_e <=> ser__L_p
+543,SO4tex_f,"Transport, Outer Membrane Porin",so4_e <=> so4_p
+5431,SO4tex_b,"Transport, Outer Membrane Porin",so4_e <=> so4_p
+544,SPMDtex_f,"Transport, Outer Membrane Porin",spmd_e <=> spmd_p
+5441,SPMDtex_b,"Transport, Outer Membrane Porin",spmd_e <=> spmd_p
+545,SUCCtex_f,"Transport, Outer Membrane Porin",succ_e <=> succ_p
+5451,SUCCtex_b,"Transport, Outer Membrane Porin",succ_e <=> succ_p
+546,SUCRtex_f,"Transport, Outer Membrane Porin",sucr_e <=> sucr_p
+5461,SUCRtex_b,"Transport, Outer Membrane Porin",sucr_e <=> sucr_p
+547,TARTRtex_f,"Transport, Outer Membrane Porin",tartr__L_e <=> tartr__L_p
+5471,TARTRtex_b,"Transport, Outer Membrane Porin",tartr__L_e <=> tartr__L_p
+548,TAURtex_f,"Transport, Outer Membrane Porin",taur_e <=> taur_p
+5481,TAURtex_b,"Transport, Outer Membrane Porin",taur_e <=> taur_p
+549,THRtex_f,"Transport, Outer Membrane Porin",thr__L_e <=> thr__L_p
+5491,THRtex_b,"Transport, Outer Membrane Porin",thr__L_e <=> thr__L_p
+550,THMDtex_f,"Transport, Outer Membrane Porin",thymd_e <=> thymd_p
+5501,THMDtex_b,"Transport, Outer Membrane Porin",thymd_e <=> thymd_p
+551,METDtex_f,"Transport, Outer Membrane Porin",met__D_e <=> met__D_p
+5511,METDtex_b,"Transport, Outer Membrane Porin",met__D_e <=> met__D_p
+552,METtex_f,"Transport, Outer Membrane Porin",met__L_e <=> met__L_p
+5521,METtex_b,"Transport, Outer Membrane Porin",met__L_e <=> met__L_p
+553,MNLtex_f,"Transport, Outer Membrane Porin",mnl_e <=> mnl_p
+5531,MNLtex_b,"Transport, Outer Membrane Porin",mnl_e <=> mnl_p
+554,NAtex_f,"Transport, Outer Membrane Porin",na1_e <=> na1_p
+5541,NAtex_b,"Transport, Outer Membrane Porin",na1_e <=> na1_p
+555,NACtex_f,"Transport, Outer Membrane Porin",nac_e <=> nac_p
+5551,NACtex_b,"Transport, Outer Membrane Porin",nac_e <=> nac_p
+556,NH4tex_f,"Transport, Outer Membrane Porin",nh4_e <=> nh4_p
+5561,NH4tex_b,"Transport, Outer Membrane Porin",nh4_e <=> nh4_p
+557,BUTtex_f,"Transport, Outer Membrane Porin",but_e <=> but_p
+5571,BUTtex_b,"Transport, Outer Membrane Porin",but_e <=> but_p
+558,CHLtex_f,"Transport, Outer Membrane Porin",chol_e <=> chol_p
+5581,CHLtex_b,"Transport, Outer Membrane Porin",chol_e <=> chol_p
+559,CO2tex_f,"Transport, Outer Membrane Porin",co2_e <=> co2_p
+5591,CO2tex_b,"Transport, Outer Membrane Porin",co2_e <=> co2_p
+560,CRNtex_f,"Transport, Outer Membrane Porin",crn_e <=> crn_p
+5601,CRNtex_b,"Transport, Outer Membrane Porin",crn_e <=> crn_p
+561,DINStex_f,"Transport, Outer Membrane Porin",din_e <=> din_p
+5611,DINStex_b,"Transport, Outer Membrane Porin",din_e <=> din_p
+562,DMStex_f,"Transport, Outer Membrane Porin",dms_e <=> dms_p
+5621,DMStex_b,"Transport, Outer Membrane Porin",dms_e <=> dms_p
+563,CSNtex_f,"Transport, Outer Membrane Porin",csn_e <=> csn_p
+5631,CSNtex_b,"Transport, Outer Membrane Porin",csn_e <=> csn_p
+564,CYNTtex_f,"Transport, Outer Membrane Porin",cynt_e <=> cynt_p
+5641,CYNTtex_b,"Transport, Outer Membrane Porin",cynt_e <=> cynt_p
+565,CYStex_f,"Transport, Outer Membrane Porin",cys__L_e <=> cys__L_p
+5651,CYStex_b,"Transport, Outer Membrane Porin",cys__L_e <=> cys__L_p
+566,CYTDtex_f,"Transport, Outer Membrane Porin",cytd_e <=> cytd_p
+5661,CYTDtex_b,"Transport, Outer Membrane Porin",cytd_e <=> cytd_p
+567,DCAtex_f,"Transport, Outer Membrane Porin",dca_e <=> dca_p
+5671,DCAtex_b,"Transport, Outer Membrane Porin",dca_e <=> dca_p
+568,DGSNtex_f,"Transport, Outer Membrane Porin",dgsn_e <=> dgsn_p
+5681,DGSNtex_b,"Transport, Outer Membrane Porin",dgsn_e <=> dgsn_p
+569,LCTStex_f,"Transport, Outer Membrane Porin",lcts_e <=> lcts_p
+5691,LCTStex_b,"Transport, Outer Membrane Porin",lcts_e <=> lcts_p
+570,LEUtex_f,"Transport, Outer Membrane Porin",leu__L_e <=> leu__L_p
+5701,LEUtex_b,"Transport, Outer Membrane Porin",leu__L_e <=> leu__L_p
+571,LYStex_f,"Transport, Outer Membrane Porin",lys__L_e <=> lys__L_p
+5711,LYStex_b,"Transport, Outer Membrane Porin",lys__L_e <=> lys__L_p
+572,LYXtex_f,"Transport, Outer Membrane Porin",lyx__L_e <=> lyx__L_p
+5721,LYXtex_b,"Transport, Outer Membrane Porin",lyx__L_e <=> lyx__L_p
+573,MANtex_f,"Transport, Outer Membrane Porin",man_e <=> man_p
+5731,MANtex_b,"Transport, Outer Membrane Porin",man_e <=> man_p
+574,MAN6Ptex_f,"Transport, Outer Membrane Porin",man6p_e <=> man6p_p
+5741,MAN6Ptex_b,"Transport, Outer Membrane Porin",man6p_e <=> man6p_p
+575,MELIBtex_f,"Transport, Outer Membrane Porin",melib_e <=> melib_p
+5751,MELIBtex_b,"Transport, Outer Membrane Porin",melib_e <=> melib_p
+576,DMSOtex_f,"Transport, Outer Membrane Porin",dmso_e <=> dmso_p
+5761,DMSOtex_b,"Transport, Outer Membrane Porin",dmso_e <=> dmso_p
+577,FRUtex_f,"Transport, Outer Membrane Porin",fru_e <=> fru_p
+5771,FRUtex_b,"Transport, Outer Membrane Porin",fru_e <=> fru_p
+578,FUCtex_f,"Transport, Outer Membrane Porin",fuc__L_e <=> fuc__L_p
+5781,FUCtex_b,"Transport, Outer Membrane Porin",fuc__L_e <=> fuc__L_p
+579,FUMtex_f,"Transport, Outer Membrane Porin",fum_e <=> fum_p
+5791,FUMtex_b,"Transport, Outer Membrane Porin",fum_e <=> fum_p
+580,FE2tex_f,"Transport, Outer Membrane Porin",fe2_e <=> fe2_p
+5801,FE2tex_b,"Transport, Outer Membrane Porin",fe2_e <=> fe2_p
+581,NMNtex_f,"Transport, Outer Membrane Porin",nmn_e <=> nmn_p
+5811,NMNtex_b,"Transport, Outer Membrane Porin",nmn_e <=> nmn_p
+582,NO2tex_f,"Transport, Outer Membrane Porin",no2_e <=> no2_p
+5821,NO2tex_b,"Transport, Outer Membrane Porin",no2_e <=> no2_p
+583,GDPtex_f,"Transport, Outer Membrane Porin",gdp_e <=> gdp_p
+5831,GDPtex_b,"Transport, Outer Membrane Porin",gdp_e <=> gdp_p
+584,TMAtex_f,"Transport, Outer Membrane Porin",tma_e <=> tma_p
+5841,TMAtex_b,"Transport, Outer Membrane Porin",tma_e <=> tma_p
+585,TMAOtex_f,"Transport, Outer Membrane Porin",tmao_e <=> tmao_p
+5851,TMAOtex_b,"Transport, Outer Membrane Porin",tmao_e <=> tmao_p
+586,TREtex_f,"Transport, Outer Membrane Porin",tre_e <=> tre_p
+5861,TREtex_b,"Transport, Outer Membrane Porin",tre_e <=> tre_p
+587,TRPtex_f,"Transport, Outer Membrane Porin",trp__L_e <=> trp__L_p
+5871,TRPtex_b,"Transport, Outer Membrane Porin",trp__L_e <=> trp__L_p
+588,TSULtex_f,"Transport, Outer Membrane Porin",tsul_e <=> tsul_p
+5881,TSULtex_b,"Transport, Outer Membrane Porin",tsul_e <=> tsul_p
+589,TYRtex_f,"Transport, Outer Membrane Porin",tyr__L_e <=> tyr__L_p
+5891,TYRtex_b,"Transport, Outer Membrane Porin",tyr__L_e <=> tyr__L_p
+590,URAtex_f,"Transport, Outer Membrane Porin",ura_e <=> ura_p
+5901,URAtex_b,"Transport, Outer Membrane Porin",ura_e <=> ura_p
+591,UREAtex_f,"Transport, Outer Membrane Porin",urea_e <=> urea_p
+5911,UREAtex_b,"Transport, Outer Membrane Porin",urea_e <=> urea_p
+592,VALtex_f,"Transport, Outer Membrane Porin",val__L_e <=> val__L_p
+5921,VALtex_b,"Transport, Outer Membrane Porin",val__L_e <=> val__L_p
+593,XANtex_f,"Transport, Outer Membrane Porin",xan_e <=> xan_p
+5931,XANtex_b,"Transport, Outer Membrane Porin",xan_e <=> xan_p
+594,XYLtex_f,"Transport, Outer Membrane Porin",xyl__D_e <=> xyl__D_p
+5941,XYLtex_b,"Transport, Outer Membrane Porin",xyl__D_e <=> xyl__D_p
+595,ABUTtex_f,"Transport, Outer Membrane Porin",4abut_e <=> 4abut_p
+5951,ABUTtex_b,"Transport, Outer Membrane Porin",4abut_e <=> 4abut_p
+596,23CAMPtex_f,"Transport, Outer Membrane Porin",23camp_e <=> 23camp_p
+5961,23CAMPtex_b,"Transport, Outer Membrane Porin",23camp_e <=> 23camp_p
+597,23CCMPtex_f,"Transport, Outer Membrane Porin",23ccmp_e <=> 23ccmp_p
+5971,23CCMPtex_b,"Transport, Outer Membrane Porin",23ccmp_e <=> 23ccmp_p
+598,23CUMPtex_f,"Transport, Outer Membrane Porin",23cump_e <=> 23cump_p
+5981,23CUMPtex_b,"Transport, Outer Membrane Porin",23cump_e <=> 23cump_p
+599,23CGMPtex_f,"Transport, Outer Membrane Porin",23cgmp_e <=> 23cgmp_p
+5991,23CGMPtex_b,"Transport, Outer Membrane Porin",23cgmp_e <=> 23cgmp_p
+600,3AMPtex_f,"Transport, Outer Membrane Porin",3amp_e <=> 3amp_p
+6001,3AMPtex_b,"Transport, Outer Membrane Porin",3amp_e <=> 3amp_p
+601,3CMPtex_f,"Transport, Outer Membrane Porin",3cmp_e <=> 3cmp_p
+6011,3CMPtex_b,"Transport, Outer Membrane Porin",3cmp_e <=> 3cmp_p
+602,ETHSO3tex_f,"Transport, Outer Membrane Porin",ethso3_e <=> ethso3_p
+6021,ETHSO3tex_b,"Transport, Outer Membrane Porin",ethso3_e <=> ethso3_p
+603,BUTSO3tex_f,"Transport, Outer Membrane Porin",butso3_e <=> butso3_p
+6031,BUTSO3tex_b,"Transport, Outer Membrane Porin",butso3_e <=> butso3_p
+604,LIPOtex_f,"Transport, Outer Membrane Porin",lipoate_e <=> lipoate_p
+6041,LIPOtex_b,"Transport, Outer Membrane Porin",lipoate_e <=> lipoate_p
+605,GALBDtex_f,"Transport, Outer Membrane Porin",gal_bD_e <=> gal_bD_p
+6051,GALBDtex_b,"Transport, Outer Membrane Porin",gal_bD_e <=> gal_bD_p
+606,SULFACtex_f,"Transport, Outer Membrane Porin",sulfac_e <=> sulfac_p
+6061,SULFACtex_b,"Transport, Outer Membrane Porin",sulfac_e <=> sulfac_p
+607,NOtex_f,"Transport, Outer Membrane Porin",no_e <=> no_p
+6071,NOtex_b,"Transport, Outer Membrane Porin",no_e <=> no_p
+608,N2Otex_f,"Transport, Outer Membrane Porin",n2o_e <=> n2o_p
+6081,N2Otex_b,"Transport, Outer Membrane Porin",n2o_e <=> n2o_p
+609,PEAMNtex_f,"Transport, Outer Membrane Porin",peamn_e <=> peamn_p
+6091,PEAMNtex_b,"Transport, Outer Membrane Porin",peamn_e <=> peamn_p
+610,PACALDtex_f,"Transport, Outer Membrane Porin",pacald_e <=> pacald_p
+6101,PACALDtex_b,"Transport, Outer Membrane Porin",pacald_e <=> pacald_p
+611,CYANtex_f,"Transport, Outer Membrane Porin",cyan_e <=> cyan_p
+6111,CYANtex_b,"Transport, Outer Membrane Porin",cyan_e <=> cyan_p
+612,SO3tex_f,"Transport, Outer Membrane Porin",so3_e <=> so3_p
+6121,SO3tex_b,"Transport, Outer Membrane Porin",so3_e <=> so3_p
+613,TCYNTtex_f,"Transport, Outer Membrane Porin",tcynt_e <=> tcynt_p
+6131,TCYNTtex_b,"Transport, Outer Membrane Porin",tcynt_e <=> tcynt_p
+614,METSOX1tex_f,"Transport, Outer Membrane Porin",metsox_S__L_e <=> metsox_S__L_p
+6141,METSOX1tex_b,"Transport, Outer Membrane Porin",metsox_S__L_e <=> metsox_S__L_p
+615,METSOX2tex_f,"Transport, Outer Membrane Porin",metsox_R__L_e <=> metsox_R__L_p
+6151,METSOX2tex_b,"Transport, Outer Membrane Porin",metsox_R__L_e <=> metsox_R__L_p
+616,3UMPtex_f,"Transport, Outer Membrane Porin",3ump_e <=> 3ump_p
+6161,3UMPtex_b,"Transport, Outer Membrane Porin",3ump_e <=> 3ump_p
+617,3GMPtex_f,"Transport, Outer Membrane Porin",3gmp_e <=> 3gmp_p
+6171,3GMPtex_b,"Transport, Outer Membrane Porin",3gmp_e <=> 3gmp_p
+618,DOPAtex_f,"Transport, Outer Membrane Porin",dopa_e <=> dopa_p
+6181,DOPAtex_b,"Transport, Outer Membrane Porin",dopa_e <=> dopa_p
+619,4HOXPACDtex_f,"Transport, Outer Membrane Porin",4hoxpacd_e <=> 4hoxpacd_p
+6191,4HOXPACDtex_b,"Transport, Outer Membrane Porin",4hoxpacd_e <=> 4hoxpacd_p
+620,ETHAtex_f,"Transport, Outer Membrane Porin",etha_e <=> etha_p
+6201,ETHAtex_b,"Transport, Outer Membrane Porin",etha_e <=> etha_p
+621,G3PStex_f,"Transport, Outer Membrane Porin",g3ps_e <=> g3ps_p
+6211,G3PStex_b,"Transport, Outer Membrane Porin",g3ps_e <=> g3ps_p
+622,ACGAL1Ptex_f,"Transport, Outer Membrane Porin",acgal1p_e <=> acgal1p_p
+6221,ACGAL1Ptex_b,"Transport, Outer Membrane Porin",acgal1p_e <=> acgal1p_p
+623,ACGALtex_f,"Transport, Outer Membrane Porin",acgal_e <=> acgal_p
+6231,ACGALtex_b,"Transport, Outer Membrane Porin",acgal_e <=> acgal_p
+624,GLCUR1Ptex_f,"Transport, Outer Membrane Porin",glcur1p_e <=> glcur1p_p
+6241,GLCUR1Ptex_b,"Transport, Outer Membrane Porin",glcur1p_e <=> glcur1p_p
+625,UDPGLCURtex_f,"Transport, Outer Membrane Porin",udpglcur_e <=> udpglcur_p
+6251,UDPGLCURtex_b,"Transport, Outer Membrane Porin",udpglcur_e <=> udpglcur_p
+626,ISETACtex_f,"Transport, Outer Membrane Porin",isetac_e <=> isetac_p
+6261,ISETACtex_b,"Transport, Outer Membrane Porin",isetac_e <=> isetac_p
+627,UDPGtex_f,"Transport, Outer Membrane Porin",udpg_e <=> udpg_p
+6271,UDPGtex_b,"Transport, Outer Membrane Porin",udpg_e <=> udpg_p
+628,UDPGALtex_f,"Transport, Outer Membrane Porin",udpgal_e <=> udpgal_p
+6281,UDPGALtex_b,"Transport, Outer Membrane Porin",udpgal_e <=> udpgal_p
+629,ACGAM1Ptex_f,"Transport, Outer Membrane Porin",acgam1p_e <=> acgam1p_p
+6291,ACGAM1Ptex_b,"Transport, Outer Membrane Porin",acgam1p_e <=> acgam1p_p
+630,UACGAMtex_f,"Transport, Outer Membrane Porin",uacgam_e <=> uacgam_p
+6301,UACGAMtex_b,"Transport, Outer Membrane Porin",uacgam_e <=> uacgam_p
+631,UDPACGALtex_f,"Transport, Outer Membrane Porin",udpacgal_e <=> udpacgal_p
+6311,UDPACGALtex_b,"Transport, Outer Membrane Porin",udpacgal_e <=> udpacgal_p
+632,MSO3tex_f,"Transport, Outer Membrane Porin",mso3_e <=> mso3_p
+6321,MSO3tex_b,"Transport, Outer Membrane Porin",mso3_e <=> mso3_p
+633,GLYC2Ptex_f,"Transport, Outer Membrane Porin",glyc2p_e <=> glyc2p_p
+6331,GLYC2Ptex_b,"Transport, Outer Membrane Porin",glyc2p_e <=> glyc2p_p
+634,PSERtex_f,"Transport, Outer Membrane Porin",pser__L_e <=> pser__L_p
+6341,PSERtex_b,"Transport, Outer Membrane Porin",pser__L_e <=> pser__L_p
+635,R5Ptex_f,"Transport, Outer Membrane Porin",r5p_e <=> r5p_p
+6351,R5Ptex_b,"Transport, Outer Membrane Porin",r5p_e <=> r5p_p
+636,THRPtex_f,"Transport, Outer Membrane Porin",thrp_e <=> thrp_p
+6361,THRPtex_b,"Transport, Outer Membrane Porin",thrp_e <=> thrp_p
+637,TYRPtex_f,"Transport, Outer Membrane Porin",tyrp_e <=> tyrp_p
+6371,TYRPtex_b,"Transport, Outer Membrane Porin",tyrp_e <=> tyrp_p
+638,CITtex_f,"Transport, Outer Membrane Porin",cit_e <=> cit_p
+6381,CITtex_b,"Transport, Outer Membrane Porin",cit_e <=> cit_p
+639,ACGAtex_f,"Transport, Outer Membrane Porin",acgam_e <=> acgam_p
+6391,ACGAtex_b,"Transport, Outer Membrane Porin",acgam_e <=> acgam_p
+640,G6Ptex_f,"Transport, Outer Membrane Porin",g6p_e <=> g6p_p
+6401,G6Ptex_b,"Transport, Outer Membrane Porin",g6p_e <=> g6p_p
+641,MOBDtex_f,"Transport, Outer Membrane Porin",mobd_e <=> mobd_p
+6411,MOBDtex_b,"Transport, Outer Membrane Porin",mobd_e <=> mobd_p
+642,NI2tex_f,"Transport, Outer Membrane Porin",ni2_e <=> ni2_p
+6421,NI2tex_b,"Transport, Outer Membrane Porin",ni2_e <=> ni2_p
+643,H2O2tex_f,"Transport, Outer Membrane Porin",h2o2_e <=> h2o2_p
+6431,H2O2tex_b,"Transport, Outer Membrane Porin",h2o2_e <=> h2o2_p
+644,ADEtex_f,"Transport, Outer Membrane Porin",ade_e <=> ade_p
+6441,ADEtex_b,"Transport, Outer Membrane Porin",ade_e <=> ade_p
+645,AGMtex_f,"Transport, Outer Membrane Porin",agm_e <=> agm_p
+6451,AGMtex_b,"Transport, Outer Membrane Porin",agm_e <=> agm_p
+646,ALAtex_f,"Transport, Outer Membrane Porin",ala__L_e <=> ala__L_p
+6461,ALAtex_b,"Transport, Outer Membrane Porin",ala__L_e <=> ala__L_p
+647,BALAtex_f,"Transport, Outer Membrane Porin",ala_B_e <=> ala_B_p
+6471,BALAtex_b,"Transport, Outer Membrane Porin",ala_B_e <=> ala_B_p
+648,DALAtex_f,"Transport, Outer Membrane Porin",ala__D_e <=> ala__D_p
+6481,DALAtex_b,"Transport, Outer Membrane Porin",ala__D_e <=> ala__D_p
+649,AMPtex_f,"Transport, Outer Membrane Porin",amp_e <=> amp_p
+6491,AMPtex_b,"Transport, Outer Membrane Porin",amp_e <=> amp_p
+650,ARBtex_f,"Transport, Outer Membrane Porin",arab__L_e <=> arab__L_p
+6501,ARBtex_b,"Transport, Outer Membrane Porin",arab__L_e <=> arab__L_p
+651,ARGtex_f,"Transport, Outer Membrane Porin",arg__L_e <=> arg__L_p
+6511,ARGtex_b,"Transport, Outer Membrane Porin",arg__L_e <=> arg__L_p
+652,ASCBtex_f,"Transport, Outer Membrane Porin",ascb__L_e <=> ascb__L_p
+6521,ASCBtex_b,"Transport, Outer Membrane Porin",ascb__L_e <=> ascb__L_p
+653,MMETtex_f,"Transport, Outer Membrane Porin",mmet_e <=> mmet_p
+6531,MMETtex_b,"Transport, Outer Membrane Porin",mmet_e <=> mmet_p
+654,FE3tex_f,"Transport, Outer Membrane Porin",fe3_e <=> fe3_p
+6541,FE3tex_b,"Transport, Outer Membrane Porin",fe3_e <=> fe3_p
+655,MG2tex_f,"Transport, Outer Membrane Porin",mg2_e <=> mg2_p
+6551,MG2tex_b,"Transport, Outer Membrane Porin",mg2_e <=> mg2_p
+656,Zn2tex_f,"Transport, Outer Membrane Porin",zn2_e <=> zn2_p
+6561,Zn2tex_b,"Transport, Outer Membrane Porin",zn2_e <=> zn2_p
+657,CD2tex_f,"Transport, Outer Membrane Porin",cd2_e <=> cd2_p
+6571,CD2tex_b,"Transport, Outer Membrane Porin",cd2_e <=> cd2_p
+658,ASO3tex_f,"Transport, Outer Membrane Porin",aso3_e <=> aso3_p
+6581,ASO3tex_b,"Transport, Outer Membrane Porin",aso3_e <=> aso3_p
+659,MANGLYCtex_f,"Transport, Outer Membrane Porin",manglyc_e <=> manglyc_p
+6591,MANGLYCtex_b,"Transport, Outer Membrane Porin",manglyc_e <=> manglyc_p
+660,FRUURtex_f,"Transport, Outer Membrane Porin",fruur_e <=> fruur_p
+6601,FRUURtex_b,"Transport, Outer Membrane Porin",fruur_e <=> fruur_p
+661,GLYCAtex_f,"Transport, Outer Membrane Porin",glyc__R_e <=> glyc__R_p
+6611,GLYCAtex_b,"Transport, Outer Membrane Porin",glyc__R_e <=> glyc__R_p
+662,COBALT2tex_f,"Transport, Outer Membrane Porin",cobalt2_e <=> cobalt2_p
+6621,COBALT2tex_b,"Transport, Outer Membrane Porin",cobalt2_e <=> cobalt2_p
+663,DIMPtex_f,"Transport, Outer Membrane Porin",dimp_e <=> dimp_p
+6631,DIMPtex_b,"Transport, Outer Membrane Porin",dimp_e <=> dimp_p
+664,XTSNtex_f,"Transport, Outer Membrane Porin",xtsn_e <=> xtsn_p
+6641,XTSNtex_b,"Transport, Outer Membrane Porin",xtsn_e <=> xtsn_p
+665,HG2tex_f,"Transport, Outer Membrane Porin",hg2_e <=> hg2_p
+6651,HG2tex_b,"Transport, Outer Membrane Porin",hg2_e <=> hg2_p
+666,DHAtex_f,"Transport, Outer Membrane Porin",dha_e <=> dha_p
+6661,DHAtex_b,"Transport, Outer Membrane Porin",dha_e <=> dha_p
+667,ETOHtex_f,"Transport, Outer Membrane Porin",etoh_e <=> etoh_p
+6671,ETOHtex_b,"Transport, Outer Membrane Porin",etoh_e <=> etoh_p
+668,ACACtex_f,"Transport, Outer Membrane Porin",acac_e <=> acac_p
+6681,ACACtex_b,"Transport, Outer Membrane Porin",acac_e <=> acac_p
+669,H2Stex_f,"Transport, Outer Membrane Porin",h2s_e <=> h2s_p
+6691,H2Stex_b,"Transport, Outer Membrane Porin",h2s_e <=> h2s_p
+670,4PEPTtex_f,"Transport, Outer Membrane Porin",LalaDgluMdapDala_e <=> LalaDgluMdapDala_p
+6701,4PEPTtex_b,"Transport, Outer Membrane Porin",LalaDgluMdapDala_e <=> LalaDgluMdapDala_p
+671,CU2tex_f,"Transport, Outer Membrane Porin",cu2_e <=> cu2_p
+6711,CU2tex_b,"Transport, Outer Membrane Porin",cu2_e <=> cu2_p
+672,CLtex_f,"Transport, Outer Membrane Porin",cl_e <=> cl_p
+6721,CLtex_b,"Transport, Outer Membrane Porin",cl_e <=> cl_p
+673,PROtex_f,"Transport, Outer Membrane Porin",pro__L_e <=> pro__L_p
+6731,PROtex_b,"Transport, Outer Membrane Porin",pro__L_e <=> pro__L_p
+674,SBTtex_f,"Transport, Outer Membrane Porin",sbt__D_e <=> sbt__D_p
+6741,SBTtex_b,"Transport, Outer Membrane Porin",sbt__D_e <=> sbt__D_p
+675,AKGtex_f,"Transport, Outer Membrane Porin",akg_e <=> akg_p
+6751,AKGtex_b,"Transport, Outer Membrane Porin",akg_e <=> akg_p
+676,ALLTNtex_f,"Transport, Outer Membrane Porin",alltn_e <=> alltn_p
+6761,ALLTNtex_b,"Transport, Outer Membrane Porin",alltn_e <=> alltn_p
+677,ASNtex_f,"Transport, Outer Membrane Porin",asn__L_e <=> asn__L_p
+6771,ASNtex_b,"Transport, Outer Membrane Porin",asn__L_e <=> asn__L_p
+678,TYMtex_f,"Transport, Outer Membrane Porin",tym_e <=> tym_p
+6781,TYMtex_b,"Transport, Outer Membrane Porin",tym_e <=> tym_p
+679,CMPtex_f,"Transport, Outer Membrane Porin",cmp_e <=> cmp_p
+6791,CMPtex_b,"Transport, Outer Membrane Porin",cmp_e <=> cmp_p
+680,DUMPtex_f,"Transport, Outer Membrane Porin",dump_e <=> dump_p
+6801,DUMPtex_b,"Transport, Outer Membrane Porin",dump_e <=> dump_p
+681,XMPtex_f,"Transport, Outer Membrane Porin",xmp_e <=> xmp_p
+6811,XMPtex_b,"Transport, Outer Membrane Porin",xmp_e <=> xmp_p
+682,3PEPTtex_f,"Transport, Outer Membrane Porin",LalaDgluMdap_e <=> LalaDgluMdap_p
+6821,3PEPTtex_b,"Transport, Outer Membrane Porin",LalaDgluMdap_e <=> LalaDgluMdap_p
+683,ANHGMtex_f,"Transport, Outer Membrane Porin",anhgm_e <=> anhgm_p
+6831,ANHGMtex_b,"Transport, Outer Membrane Porin",anhgm_e <=> anhgm_p
+684,FALDtex_f,"Transport, Outer Membrane Porin",fald_e <=> fald_p
+6841,FALDtex_b,"Transport, Outer Membrane Porin",fald_e <=> fald_p
+685,CYSDtex_f,"Transport, Outer Membrane Porin",cys__D_e <=> cys__D_p
+6851,CYSDtex_b,"Transport, Outer Membrane Porin",cys__D_e <=> cys__D_p
+686,G3PItex_f,"Transport, Outer Membrane Porin",g3pi_e <=> g3pi_p
+6861,G3PItex_b,"Transport, Outer Membrane Porin",g3pi_e <=> g3pi_p
+687,G3PGtex_f,"Transport, Outer Membrane Porin",g3pg_e <=> g3pg_p
+6871,G3PGtex_b,"Transport, Outer Membrane Porin",g3pg_e <=> g3pg_p
+688,G3PEtex_f,"Transport, Outer Membrane Porin",g3pe_e <=> g3pe_p
+6881,G3PEtex_b,"Transport, Outer Membrane Porin",g3pe_e <=> g3pe_p
+689,G3PCtex_f,"Transport, Outer Membrane Porin",g3pc_e <=> g3pc_p
+6891,G3PCtex_b,"Transport, Outer Membrane Porin",g3pc_e <=> g3pc_p
+690,DAMPtex_f,"Transport, Outer Membrane Porin",damp_e <=> damp_p
+6901,DAMPtex_b,"Transport, Outer Membrane Porin",damp_e <=> damp_p
+691,DCMPtex_f,"Transport, Outer Membrane Porin",dcmp_e <=> dcmp_p
+6911,DCMPtex_b,"Transport, Outer Membrane Porin",dcmp_e <=> dcmp_p
+692,DGMPtex_f,"Transport, Outer Membrane Porin",dgmp_e <=> dgmp_p
+6921,DGMPtex_b,"Transport, Outer Membrane Porin",dgmp_e <=> dgmp_p
+693,DTMPtex_f,"Transport, Outer Membrane Porin",dtmp_e <=> dtmp_p
+6931,DTMPtex_b,"Transport, Outer Membrane Porin",dtmp_e <=> dtmp_p
+694,GMPtex_f,"Transport, Outer Membrane Porin",gmp_e <=> gmp_p
+6941,GMPtex_b,"Transport, Outer Membrane Porin",gmp_e <=> gmp_p
+695,IMPtex_f,"Transport, Outer Membrane Porin",imp_e <=> imp_p
+6951,IMPtex_b,"Transport, Outer Membrane Porin",imp_e <=> imp_p
+696,UMPtex_f,"Transport, Outer Membrane Porin",ump_e <=> ump_p
+6961,UMPtex_b,"Transport, Outer Membrane Porin",ump_e <=> ump_p
+697,G1Ptex_f,"Transport, Outer Membrane Porin",g1p_e <=> g1p_p
+6971,G1Ptex_b,"Transport, Outer Membrane Porin",g1p_e <=> g1p_p
+698,SKMtex_f,"Transport, Outer Membrane Porin",skm_e <=> skm_p
+6981,SKMtex_b,"Transport, Outer Membrane Porin",skm_e <=> skm_p
+699,MNtex_f,"Transport, Outer Membrane Porin",mn2_e <=> mn2_p
+6991,MNtex_b,"Transport, Outer Membrane Porin",mn2_e <=> mn2_p
+700,GAL1Ptex_f,"Transport, Outer Membrane Porin",gal1p_e <=> gal1p_p
+7001,GAL1Ptex_b,"Transport, Outer Membrane Porin",gal1p_e <=> gal1p_p
+701,O2Stex_f,"Transport, Outer Membrane Porin",o2s_e <=> o2s_p
+7011,O2Stex_b,"Transport, Outer Membrane Porin",o2s_e <=> o2s_p
+702,HOMtex_f,"Transport, Outer Membrane Porin",hom__L_e <=> hom__L_p
+7021,HOMtex_b,"Transport, Outer Membrane Porin",hom__L_e <=> hom__L_p
+703,SO2tex_f,"Transport, Outer Membrane Porin",so2_e <=> so2_p
+7031,SO2tex_b,"Transport, Outer Membrane Porin",so2_e <=> so2_p
+704,ACSERtex_f,"Transport, Outer Membrane Porin",acser_e <=> acser_p
+7041,ACSERtex_b,"Transport, Outer Membrane Porin",acser_e <=> acser_p
+705,ALAALAtex_f,"Transport, Outer Membrane Porin",alaala_e <=> alaala_p
+7051,ALAALAtex_b,"Transport, Outer Membrane Porin",alaala_e <=> alaala_p
+706,MALtex_f,"Transport, Outer Membrane Porin",mal__L_e <=> mal__L_p
+7061,MALtex_b,"Transport, Outer Membrane Porin",mal__L_e <=> mal__L_p
+707,NO3tex_f,"Transport, Outer Membrane Porin",no3_e <=> no3_p
+7071,NO3tex_b,"Transport, Outer Membrane Porin",no3_e <=> no3_p
+708,GSNtex_f,"Transport, Outer Membrane Porin",gsn_e <=> gsn_p
+7081,GSNtex_b,"Transport, Outer Membrane Porin",gsn_e <=> gsn_p
+709,FORtex_f,"Transport, Outer Membrane Porin",for_e <=> for_p
+7091,FORtex_b,"Transport, Outer Membrane Porin",for_e <=> for_p
+710,RIBtex_f,"Transport, Outer Membrane Porin",rib__D_e <=> rib__D_p
+7101,RIBtex_b,"Transport, Outer Membrane Porin",rib__D_e <=> rib__D_p
+711,THMtex_f,"Transport, Outer Membrane Porin",thm_e <=> thm_p
+7111,THMtex_b,"Transport, Outer Membrane Porin",thm_e <=> thm_p
+712,XYLUtex_f,"Transport, Outer Membrane Porin",xylu__L_e <=> xylu__L_p
+7121,XYLUtex_b,"Transport, Outer Membrane Porin",xylu__L_e <=> xylu__L_p
+713,ALLtex_f,"Transport, Outer Membrane Porin",all__D_e <=> all__D_p
+7131,ALLtex_b,"Transport, Outer Membrane Porin",all__D_e <=> all__D_p
+714,34dhpactex_f,"Transport, Outer Membrane Porin",34dhpac_e <=> 34dhpac_p
+7141,34dhpactex_b,"Transport, Outer Membrane Porin",34dhpac_e <=> 34dhpac_p
+715,23DAPPAtex_f,"Transport, Outer Membrane Porin",23dappa_e <=> 23dappa_p
+7151,23DAPPAtex_b,"Transport, Outer Membrane Porin",23dappa_e <=> 23dappa_p
+716,GLCtex_copy2_f,"Transport, Outer Membrane Porin",glc__D_e <=> glc__D_p
+7161,GLCtex_copy2_b,"Transport, Outer Membrane Porin",glc__D_e <=> glc__D_p
+717,PPALtex_f,"Transport, Outer Membrane Porin",ppal_e <=> ppal_p
+7171,PPALtex_b,"Transport, Outer Membrane Porin",ppal_e <=> ppal_p
+718,CA2tex_f,"Transport, Outer Membrane Porin",ca2_e <=> ca2_p
+7181,CA2tex_b,"Transport, Outer Membrane Porin",ca2_e <=> ca2_p
+719,CUtex_f,"Transport, Outer Membrane Porin",cu_e <=> cu_p
+7191,CUtex_b,"Transport, Outer Membrane Porin",cu_e <=> cu_p
+720,12PPDRtex_f,"Transport, Outer Membrane Porin",12ppd__R_e <=> 12ppd__R_p
+7201,12PPDRtex_b,"Transport, Outer Membrane Porin",12ppd__R_e <=> 12ppd__R_p
+721,F6Ptex_f,"Transport, Outer Membrane Porin",f6p_e <=> f6p_p
+7211,F6Ptex_b,"Transport, Outer Membrane Porin",f6p_e <=> f6p_p
+722,GAMAN6Ptex_f,"Transport, Outer Membrane Porin",gam6p_e <=> gam6p_p
+7221,GAMAN6Ptex_b,"Transport, Outer Membrane Porin",gam6p_e <=> gam6p_p
+723,PROGLYtex_f,"Transport, Outer Membrane Porin",progly_e <=> progly_p
+7231,PROGLYtex_b,"Transport, Outer Membrane Porin",progly_e <=> progly_p
+724,CGLYtex_f,"Transport, Outer Membrane Porin",cgly_e <=> cgly_p
+7241,CGLYtex_b,"Transport, Outer Membrane Porin",cgly_e <=> cgly_p
+725,GTHOXtex_f,"Transport, Outer Membrane Porin",gthox_e <=> gthox_p
+7251,GTHOXtex_b,"Transport, Outer Membrane Porin",gthox_e <=> gthox_p
+726,GTHRDtex_f,"Transport, Outer Membrane Porin",gthrd_e <=> gthrd_p
+7261,GTHRDtex_b,"Transport, Outer Membrane Porin",gthrd_e <=> gthrd_p
+727,TUNGStex_f,"Transport, Outer Membrane Porin",tungs_e <=> tungs_p
+7271,TUNGStex_b,"Transport, Outer Membrane Porin",tungs_e <=> tungs_p
+728,GALCTNLtex_f,"Transport, Outer Membrane Porin",galctn__L_e <=> galctn__L_p
+7281,GALCTNLtex_b,"Transport, Outer Membrane Porin",galctn__L_e <=> galctn__L_p
+729,MALDtex_f,"Transport, Outer Membrane Porin",mal__D_e <=> mal__D_p
+7291,MALDtex_b,"Transport, Outer Membrane Porin",mal__D_e <=> mal__D_p
+730,OROTtex_f,"Transport, Outer Membrane Porin",orot_e <=> orot_p
+7301,OROTtex_b,"Transport, Outer Membrane Porin",orot_e <=> orot_p
+731,5DGLCNtex_f,"Transport, Outer Membrane Porin",5dglcn_e <=> 5dglcn_p
+7311,5DGLCNtex_b,"Transport, Outer Membrane Porin",5dglcn_e <=> 5dglcn_p
+732,PPAtex_f,"Transport, Outer Membrane Porin",ppa_e <=> ppa_p
+7321,PPAtex_b,"Transport, Outer Membrane Porin",ppa_e <=> ppa_p
+733,PSCLYStex_f,"Transport, Outer Membrane Porin",psclys_e <=> psclys_p
+7331,PSCLYStex_b,"Transport, Outer Membrane Porin",psclys_e <=> psclys_p
+734,THYMtex_f,"Transport, Outer Membrane Porin",thym_e <=> thym_p
+7341,THYMtex_b,"Transport, Outer Membrane Porin",thym_e <=> thym_p
+735,MINCYCtex_f,"Transport, Outer Membrane Porin",mincyc_e <=> mincyc_p
+7351,MINCYCtex_b,"Transport, Outer Membrane Porin",mincyc_e <=> mincyc_p
+736,DOXRBCNtex_f,"Transport, Outer Membrane Porin",doxrbcn_e <=> doxrbcn_p
+7361,DOXRBCNtex_b,"Transport, Outer Membrane Porin",doxrbcn_e <=> doxrbcn_p
+737,CMtex_f,"Transport, Outer Membrane Porin",cm_e <=> cm_p
+7371,CMtex_b,"Transport, Outer Membrane Porin",cm_e <=> cm_p
+738,LALALGLUtex_f,"Transport, Outer Membrane Porin",LalaLglu_e <=> LalaLglu_p
+7381,LALALGLUtex_b,"Transport, Outer Membrane Porin",LalaLglu_e <=> LalaLglu_p
+739,5MTRtex_f,"Transport, Outer Membrane Porin",5mtr_e <=> 5mtr_p
+7391,5MTRtex_b,"Transport, Outer Membrane Porin",5mtr_e <=> 5mtr_p
+740,LALADGLUtex_f,"Transport, Outer Membrane Porin",LalaDglu_e <=> LalaDglu_p
+7401,LALADGLUtex_b,"Transport, Outer Membrane Porin",LalaDglu_e <=> LalaDglu_p
+741,3HPPtex_f,"Transport, Outer Membrane Porin",3hpp_e <=> 3hpp_p
+7411,3HPPtex_b,"Transport, Outer Membrane Porin",3hpp_e <=> 3hpp_p
+742,FUSAtex_f,"Transport, Outer Membrane Porin",fusa_e <=> fusa_p
+7421,FUSAtex_b,"Transport, Outer Membrane Porin",fusa_e <=> fusa_p
+743,QUIN2tex_f,"Transport, Outer Membrane Porin",quin_e <=> quin_p
+7431,QUIN2tex_b,"Transport, Outer Membrane Porin",quin_e <=> quin_p
+744,SELtex_f,"Transport, Outer Membrane Porin",sel_e <=> sel_p
+7441,SELtex_b,"Transport, Outer Membrane Porin",sel_e <=> sel_p
+745,MEOHtex_f,"Transport, Outer Membrane Porin",meoh_e <=> meoh_p
+7451,MEOHtex_b,"Transport, Outer Membrane Porin",meoh_e <=> meoh_p
+746,TTRCYCtex_f,"Transport, Outer Membrane Porin",ttrcyc_e <=> ttrcyc_p
+7461,TTRCYCtex_b,"Transport, Outer Membrane Porin",ttrcyc_e <=> ttrcyc_p
+747,SLNTtex_f,"Transport, Outer Membrane Porin",slnt_e <=> slnt_p
+7471,SLNTtex_b,"Transport, Outer Membrane Porin",slnt_e <=> slnt_p
+748,TARTRDtex_f,"Transport, Outer Membrane Porin",tartr__D_e <=> tartr__D_p
+7481,TARTRDtex_b,"Transport, Outer Membrane Porin",tartr__D_e <=> tartr__D_p
+749,BTNtex_f,"Transport, Outer Membrane Porin",btn_e <=> btn_p
+7491,BTNtex_b,"Transport, Outer Membrane Porin",btn_e <=> btn_p
+751,PYDXtex_f,"Transport, Outer Membrane Porin",pydx_e <=> pydx_p
+7511,PYDXtex_b,"Transport, Outer Membrane Porin",pydx_e <=> pydx_p
+752,PYDXNtex_f,"Transport, Outer Membrane Porin",pydxn_e <=> pydxn_p
+7521,PYDXNtex_b,"Transport, Outer Membrane Porin",pydxn_e <=> pydxn_p
+753,PYDAMtex_f,"Transport, Outer Membrane Porin",pydam_e <=> pydam_p
+7531,PYDAMtex_b,"Transport, Outer Membrane Porin",pydam_e <=> pydam_p
+754,CHTBStex_f,"Transport, Outer Membrane Porin",chtbs_e <=> chtbs_p
+7541,CHTBStex_b,"Transport, Outer Membrane Porin",chtbs_e <=> chtbs_p
+755,CRNDtex_f,"Transport, Outer Membrane Porin",crn__D_e <=> crn__D_p
+7551,CRNDtex_b,"Transport, Outer Membrane Porin",crn__D_e <=> crn__D_p
+756,DXYLONtex_f,"Transport, Outer Membrane Porin",dxylnt_e <=> dxylnt_p
+7561,DXYLONtex_b,"Transport, Outer Membrane Porin",dxylnt_e <=> dxylnt_p
+757,PSURItex_f,"Transport, Outer Membrane Porin",psuri_e <=> psuri_p
+7571,PSURItex_b,"Transport, Outer Membrane Porin",psuri_e <=> psuri_p
+758,URATEtex_f,"Transport, Outer Membrane Porin",urate_e <=> urate_p
+7581,URATEtex_b,"Transport, Outer Membrane Porin",urate_e <=> urate_p
+759,Ftex_f,"Transport, Outer Membrane Porin",f_p <=> f_e
+7591,Ftex_b,"Transport, Outer Membrane Porin",f_p <=> f_e
+760,CYSItex_f,"Transport, Outer Membrane Porin",cysi__L_e <=> cysi__L_p
+7601,CYSItex_b,"Transport, Outer Membrane Porin",cysi__L_e <=> cysi__L_p
+761,GUAtex_f,"Transport, Outer Membrane",gua_e <=> gua_p
+7611,GUAtex_b,"Transport, Outer Membrane",gua_e <=> gua_p
+762,INStex_f,"Transport, Outer Membrane",ins_e <=> ins_p
+7621,INStex_b,"Transport, Outer Membrane",ins_e <=> ins_p
+771,DCYTtex_f,"Transport, Outer Membrane",dcyt_e <=> dcyt_p
+7711,DCYTtex_b,"Transport, Outer Membrane",dcyt_e <=> dcyt_p
+772,DURItex_f,"Transport, Outer Membrane",duri_e <=> duri_p
+7721,DURItex_b,"Transport, Outer Membrane",duri_e <=> duri_p
+773,URItex_f,"Transport, Outer Membrane",uri_e <=> uri_p
+7731,URItex_b,"Transport, Outer Membrane",uri_e <=> uri_p
+783,ADNtex_f,"Transport, Outer Membrane",adn_e <=> adn_p
+7831,ADNtex_b,"Transport, Outer Membrane",adn_e <=> adn_p
+786,DADNtex_f,"Transport, Outer Membrane",dad_2_e <=> dad_2_p
+7861,DADNtex_b,"Transport, Outer Membrane",dad_2_e <=> dad_2_p
+787,ACNAMtex_f,"Transport, Outer Membrane",acnam_e <=> acnam_p
+7871,ACNAMtex_b,"Transport, Outer Membrane",acnam_e <=> acnam_p
+794,GLCtex_copy2_f,"Transport, Outer Membrane",glc__D_e <=> glc__D_p
+7941,GLCtex_copy2_b,"Transport, Outer Membrane",glc__D_e <=> glc__D_p
+798,RFAMPtex_f,"Transport, Outer Membrane",rfamp_e <=> rfamp_p
+7981,RFAMPtex_b,"Transport, Outer Membrane",rfamp_e <=> rfamp_p
+802,NOVBCNtex_f,"Transport, Outer Membrane",novbcn_e <=> novbcn_p
+8021,NOVBCNtex_b,"Transport, Outer Membrane",novbcn_e <=> novbcn_p
+805,CH4tex_f,"Transport, Outer Membrane",ch4_e <=> ch4_p
+8051,CH4tex_b,"Transport, Outer Membrane",ch4_e <=> ch4_p
+806,DHPStex_f,"Transport, Outer Membrane",dhps_e <=> dhps_p
+8061,DHPStex_b,"Transport, Outer Membrane",dhps_e <=> dhps_p
+807,FMNtex_f,"Transport, Outer Membrane",fmn_p <=> fmn_e
+8071,FMNtex_b,"Transport, Outer Membrane",fmn_p <=> fmn_e
+808,CLBtex_f,"Transport, Outer Membrane",cellb_e <=> cellb_p
+8081,CLBtex_b,"Transport, Outer Membrane",cellb_e <=> cellb_p
+809,FADtex_f,"Transport, Outer Membrane",fad_p <=> fad_e
+8091,FADtex_b,"Transport, Outer Membrane",fad_p <=> fad_e
+810,2DGLCtex_f,"Transport, Outer Membrane",2dglc_e <=> 2dglc_p
+8101,2DGLCtex_b,"Transport, Outer Membrane",2dglc_e <=> 2dglc_p
+811,SQtex_f,"Transport, Outer Membrane",sq_e <=> sq_p
+8111,SQtex_b,"Transport, Outer Membrane",sq_e <=> sq_p
+814,CS1tex_f,"Transport, Outer Membrane",cs1_e <=> cs1_p
+8141,CS1tex_b,"Transport, Outer Membrane",cs1_e <=> cs1_p
+816,MEPNtex_f,"Transport, Outer Membrane",mepn_e <=> mepn_p
+8161,MEPNtex_b,"Transport, Outer Membrane",mepn_e <=> mepn_p
+817,4ABZGLUtex_f,"Transport, Outer Membrane",4abzglu_e <=> 4abzglu_p
+8171,4ABZGLUtex_b,"Transport, Outer Membrane",4abzglu_e <=> 4abzglu_p
+818,METGLCURtex_f,"Transport, Outer Membrane",metglcur_e <=> metglcur_p
+8181,METGLCURtex_b,"Transport, Outer Membrane",metglcur_e <=> metglcur_p
+819,AI2tex_f,"Transport, Outer Membrane",mththf_e <=> mththf_p
+8191,AI2tex_b,"Transport, Outer Membrane",mththf_e <=> mththf_p

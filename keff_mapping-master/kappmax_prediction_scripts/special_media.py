@@ -1,0 +1,96 @@
+LB_media = {
+    "EX_ni2_e": -1000,
+    "EX_dcyt_e": -1000,
+    "EX_hg2_e": -1000,
+    "EX_ins_e": -1000,
+    "EX_cd2_e": -1000,
+    "EX_so4_e": -1000,
+    "EX_uri_e": -1000,
+    "EX_tungs_e": -1000,
+    "EX_glu__L_e": -1000,
+    "EX_slnt_e": -1000,
+    "EX_trp__L_e": -1000,
+    "EX_dad__2_e": -1000,
+    "EX_mobd_e": -1000,
+    "EX_val__L_e": -1000,
+    "EX_cobalt2_e": -1000,
+    "EX_gln__L_e": -1000,
+    "EX_co2_e": -1000,
+    "EX_k_e": -1000,
+    "EX_cu2_e": -1000,
+    "EX_sel_e": -1000,
+    "EX_na1_e": -1000,
+    "EX_cl_e": -1000,
+    "EX_fe3_e": -1000,
+    "EX_arg__L_e": -1000,
+    "EX_pnto__R_e": -1000,
+    "EX_lys__L_e": -1000,
+    "EX_ala__L_e": -1000,
+    "EX_gal_e": -1000,
+    "EX_cbl1_e": -1000,
+    "EX_ser__L_e": -1000,
+    "EX_adn_e": -1000,
+    "EX_thr__L_e": -1000,
+    "EX_pi_e": -1000,
+    "EX_thymd_e": -1000,
+    "EX_mn2_e": -1000,
+    "EX_phe__L_e": -1000,
+    "EX_leu__L_e": -1000,
+    "EX_ura_e": -1000,
+    "EX_h_e": -100,
+    "EX_h2o_e": -100,
+    "EX_aso3_e": -1000,
+    "EX_hxan_e": -1000,
+    "EX_glc__D_e": -1000,
+    "EX_nac_e": -1000,
+    "EX_his__L_e": -1000,
+    "EX_o2_e": -1000,
+    "EX_pro__L_e": -1000,
+    "EX_4abzglu_e": -1000,
+    "EX_mg2_e": -1000,
+    "EX_asp__L_e": -1000,
+    "EX_gly_e": -1000,
+    "EX_cys__L_e": -1000,
+    "EX_fe2_e": -1000,
+    "EX_ca2_e": -1000,
+    "EX_tyr__L_e": -1000,
+    "EX_zn2_e": -1000,
+    "EX_fru_e": -1000,
+    "EX_met__L_e": -1000,
+    "EX_ile__L_e": -1000
+}
+
+aas = {"EX_glc__D_e": -1000,
+       "EX_asp__L_e": -1000,
+       "EX_gly_e": -1000,
+       "EX_cys__L_e": -1000,
+       "EX_met__L_e": -1000,
+       "EX_ile__L_e": -1000,
+       "EX_tyr__L_e": -1000,
+       "EX_pro__L_e": -1000,
+       "EX_his__L_e": -1000,
+       "EX_phe__L_e": -1000,
+       "EX_leu__L_e": -1000,
+       "EX_ser__L_e": -1000,
+       "EX_arg__L_e": -1000,
+       "EX_lys__L_e": -1000,
+       "EX_ala__L_e": -1000,
+       "EX_gln__L_e": -1000,
+       "EX_glu__L_e": -1000,
+       "EX_trp__L_e": -1000,
+       "EX_val__L_e": -1000,
+       "EX_thr__L_e": -1000,
+       "EX_asn__L_e": -1000
+       }
+
+
+def set_special_media(model, name):
+    if name == 'Glucose_AA':
+        for r, v in aas.items():
+            model.reactions.get_by_id(r).lower_bound = v
+
+    elif name == 'LB':
+        for r, v in LB_media.items():
+            model.reactions.get_by_id(r).lower_bound = v
+    else:
+        raise UserWarning('name is bad')

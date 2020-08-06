@@ -1,0 +1,35 @@
+mfa_id_sample_id_map <- c(  "OxicEvo04EcoliGlc_0" = NA  ,                
+ "OxicEvo04Evo01EPEcoliGlc_11" = "EVO1"   ,        
+ "OxicEvo04Evo02EPEcoliGlc_11" = "EVO2"  ,       
+ "OxicEvo04gndEcoliGlc_0" =  NA ,             
+"OxicEvo04gndEvo01EPEcoliGlc_11" = NA ,   
+"OxicEvo04pgiEcoliGlc_0" = NA ,             
+ "OxicEvo04gndEvo02EPEcoliGlc_11" = NA ,   
+ "OxicEvo04gndEvo03EPEcoliGlc_11" = NA ,     
+ "OxicEvo04pgiEvo01EPEcoliGlc_11" =  "pgiEVO1"  ,   
+ "OxicEvo04ptsHIcrrEcoliGlc_0" = NA ,        
+ "OxicEvo04pgiEvo02EPEcoliGlc_11" =  "pgiEVO2"  ,    
+ "OxicEvo04pgiEvo03EPEcoliGlc_11" =  "pgiEVO3"  ,     
+ "OxicEvo04pgiEvo04EPEcoliGlc_11" =  "pgiEVO4"  ,    
+ "OxicEvo04pgiEvo05EPEcoliGlc_11" =  "pgiEVO5"  ,     
+ "OxicEvo04pgiEvo06EPEcoliGlc_11" =  "pgiEVO6"  ,    
+ "OxicEvo04pgiEvo07EPEcoliGlc_11" =  "pgiEVO7"  ,     
+ "OxicEvo04pgiEvo08EPEcoliGlc_11" =  "pgiEVO8"  ,     
+ "OxicEvo04ptsHIcrrEvo01EPEcoliGlc_11"= "ptsEvo1" ,
+ "OxicEvo04sdhCBEcoliGlc_0" = NA ,           
+ "OxicEvo04ptsHIcrrEvo02EPEcoliGlc_11"= "ptsEvo2"  ,
+ "OxicEvo04ptsHIcrrEvo03EPEcoliGlc_11"= "ptsEvo3"  ,
+ "OxicEvo04ptsHIcrrEvo04EPEcoliGlc_11" = "ptsEvo4" ,
+ "OxicEvo04sdhCBEvo01EPEcoliGlc_11" = "sdhEvo1" ,  
+ "OxicEvo04sdhCBEvo02EPEcoliGlc_11" = "sdhEvo2" ,   
+ "OxicEvo04tpiAEcoliGlc_0" = NA ,         
+ "OxicEvo04sdhCBEvo03EPEcoliGlc_11" = "sdhEvo3" ,   
+ "OxicEvo04tpiAEvo01EPEcoliGlc_11" = "tpiEvo1" ,  
+ "OxicEvo04tpiAEvo02EPEcoliGlc_11" = "tpiEvo2" ,    
+ "OxicEvo04tpiAEvo03EPEcoliGlc_11" = "tpiEvo3" ,   
+ "OxicEvo04tpiAEvo04EPEcoliGlc_11" = "tpiEvo4"
+ )
+
+map <- data.frame(simulation_id = names(mfa_id_sample_id_map), sample_id = mfa_id_sample_id_map , stringsAsFactors =  FALSE )
+
+write.csv(map , file = "data/McCloskey KO strain flux maps/mfa_id_sample_id_map.csv" , row.names = FALSE)
